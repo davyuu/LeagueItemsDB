@@ -1,1317 +1,1317 @@
 [{
-	"item_image-src": "http://www.mobafire.com/images/item/negatron-cloak.gif",
-	"item_name": "Negatron Cloak",
-	"id": 0
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/face-of-the-mountain.gif",
-	"item_name": "Face of the Mountain",
-	"id": 1
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/oracle-alteration.gif",
-	"item_name": "Oracle Alteration",
-	"id": 2
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/enchantment-alacrity.gif",
-	"item_name": "Enchantment: Alacrity",
-	"id": 3
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/arcane-sweeper.gif",
-	"item_name": "Arcane Sweeper",
-	"id": 4
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/sorcerers-shoes-captain.gif",
-	"item_name": "Sorcerer's Shoes - Captain",
-	"id": 5
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/glacial-shroud.gif",
-	"item_name": "Glacial Shroud",
-	"id": 6
-}, {
 	"item_image-src": "http://www.mobafire.com/images/item/abyssal-scepter.gif",
 	"item_name": "Abyssal Scepter",
-	"id": 7
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/vision-ward.gif",
-	"item_name": "Vision Ward",
-	"id": 8
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/elixir-of-sorcery.gif",
-	"item_name": "Elixir of Sorcery",
-	"id": 9
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/stealth-ward.gif",
-	"item_name": "Stealth Ward",
-	"id": 10
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/sunfire-cape.gif",
-	"item_name": "Sunfire Cape",
-	"id": 11
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/boots-of-mobility-alacrity.gif",
-	"item_name": "Boots of Mobility - Alacrity",
-	"id": 12
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/enchantment-captain.gif",
-	"item_name": "Enchantment: Captain",
-	"id": 13
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/frost-queens-claim.gif",
-	"item_name": "Frost Queen's Claim",
-	"id": 14
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/boots-of-mobility-homeguard.gif",
-	"item_name": "Boots of Mobility - Homeguard",
-	"id": 15
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/athenes-unholy-grail.gif",
-	"item_name": "Athene's Unholy Grail",
-	"id": 16
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/forbidden-idol.gif",
-	"item_name": "Forbidden Idol",
-	"id": 17
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/mercurys-treads-homeguard.gif",
-	"item_name": "Mercury's Treads - Homeguard",
-	"id": 18
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/manamune.gif",
-	"item_name": "Manamune",
-	"id": 19
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/runic-bulwark.gif",
-	"item_name": "Runic Bulwark",
-	"id": 20
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/enchantment-runeglaive.gif",
-	"item_name": "Enchantment: Runeglaive",
-	"id": 21
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/bonetooth-necklace-red.gif",
-	"item_name": "Bonetooth Necklace (Red)",
-	"id": 22
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/phantom-dancer.gif",
-	"item_name": "Phantom Dancer",
-	"id": 23
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/berserkers-greaves.gif",
-	"item_name": "Berserker's Greaves",
-	"id": 24
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/the-black-spear.gif",
-	"item_name": "The Black Spear",
-	"id": 25
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/blackfire-torch.gif",
-	"item_name": "Blackfire Torch",
-	"id": 26
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/void-staff.gif",
-	"item_name": "Void Staff",
-	"id": 27
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/stalkers-blade-bloodrazor.gif",
-	"item_name": "Stalker's Blade - Bloodrazor",
-	"id": 28
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/berserkers-greaves-alacrity.gif",
-	"item_name": "Berserker's Greaves - Alacrity",
-	"id": 29
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/sorcerers-shoes-furor.gif",
-	"item_name": "Sorcerer's Shoes - Furor",
-	"id": 30
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/spirit-of-the-ancient-golem.gif",
-	"item_name": "Spirit of the Ancient Golem",
-	"id": 31
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/duskblade-of-draktharr.gif",
-	"item_name": "Duskblade of Draktharr",
-	"id": 32
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/frostfang.gif",
-	"item_name": "Frostfang",
-	"id": 33
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/rangers-trailblazer.gif",
-	"item_name": "Ranger's Trailblazer",
-	"id": 34
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/blasting-wand.gif",
-	"item_name": "Blasting Wand",
-	"id": 35
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/bonetooth-necklace-blue.gif",
-	"item_name": "Bonetooth Necklace (Blue)",
-	"id": 36
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/enchantment-distortion.gif",
-	"item_name": "Enchantment: Distortion",
-	"id": 37
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/sorcerers-shoes.gif",
-	"item_name": "Sorcerer's Shoes",
-	"id": 38
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/entropy.gif",
-	"item_name": "Entropy",
-	"id": 39
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/augment-gravity.gif",
-	"item_name": "Augment: Gravity",
-	"id": 40
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/spectres-cowl.gif",
-	"item_name": "Spectre's Cowl",
-	"id": 41
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/corrupting-potion.gif",
-	"item_name": "Corrupting Potion",
-	"id": 42
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/overlords-bloodmail.gif",
-	"item_name": "Overlord's Bloodmail",
-	"id": 43
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/elixir-of-ruin.gif",
-	"item_name": "Elixir of Ruin",
-	"id": 44
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/spirit-of-the-elder-lizard.gif",
-	"item_name": "Spirit of the Elder Lizard",
-	"id": 45
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/hextech-revolver.gif",
-	"item_name": "Hextech Revolver",
-	"id": 46
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/boots-of-swiftness.gif",
-	"item_name": "Boots of Swiftness",
-	"id": 47
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/warding-totem.gif",
-	"item_name": "Warding Totem",
-	"id": 48
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/elixir-of-brilliance.gif",
-	"item_name": "Elixir of Brilliance",
-	"id": 49
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/soul-anchor.gif",
-	"item_name": "Soul Anchor",
-	"id": 50
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/seekers-armguard.gif",
-	"item_name": "Seeker's Armguard",
-	"id": 51
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/long-sword.gif",
-	"item_name": "Long Sword",
-	"id": 52
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/feral-flare.gif",
-	"item_name": "Feral Flare",
-	"id": 53
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ninja-tabi-captain.gif",
-	"item_name": "Ninja Tabi - Captain",
-	"id": 54
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/sapphire-crystal.gif",
-	"item_name": "Sapphire Crystal",
-	"id": 55
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/skirmishers-sabre-cinderhulk.gif",
-	"item_name": "Skirmisher's Sabre - Cinderhulk",
-	"id": 56
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/explorers-ward.gif",
-	"item_name": "Explorer's Ward",
-	"id": 57
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/bamis-cinder.gif",
-	"item_name": "Bami's Cinder",
-	"id": 58
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/tear-of-the-goddess.gif",
-	"item_name": "Tear of the Goddess",
-	"id": 59
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/faerie-charm.gif",
-	"item_name": "Faerie Charm",
-	"id": 60
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ninja-tabi.gif",
-	"item_name": "Ninja Tabi",
-	"id": 61
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/dorans-blade.gif",
-	"item_name": "Doran's Blade",
-	"id": 62
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/meki-pendant.gif",
-	"item_name": "Meki Pendant",
-	"id": 63
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/jaurims-fist.gif",
-	"item_name": "Jaurim's Fist",
-	"id": 64
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/bonetooth-necklace-yellow.gif",
-	"item_name": "Bonetooth Necklace (Yellow)",
-	"id": 65
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/madreds-bloodrazor.gif",
-	"item_name": "Madred's Bloodrazor",
-	"id": 66
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/eye-of-the-oasis.gif",
-	"item_name": "Eye of the Oasis",
-	"id": 67
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/wardens-mail.gif",
-	"item_name": "Warden's Mail",
-	"id": 68
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/enchantment-runic-echoes.gif",
-	"item_name": "Enchantment: Runic Echoes",
-	"id": 69
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/eye-of-the-watchers.gif",
-	"item_name": "Eye of the Watchers",
-	"id": 70
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ninja-tabi-distortion.gif",
-	"item_name": "Ninja Tabi - Distortion",
-	"id": 71
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ruby-sightstone.gif",
-	"item_name": "Ruby Sightstone",
-	"id": 72
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/enchantment-bloodrazor.gif",
-	"item_name": "Enchantment: Bloodrazor",
-	"id": 73
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/skirmishers-sabre-devourer.gif",
-	"item_name": "Skirmisher's Sabre - Devourer",
-	"id": 74
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/nashors-tooth.gif",
-	"item_name": "Nashor's Tooth",
-	"id": 75
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/hextech-glp-800.gif",
-	"item_name": "Hextech GLP-800",
-	"id": 76
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/regrowth-pendant.gif",
-	"item_name": "Regrowth Pendant",
-	"id": 77
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/soul-shroud.gif",
-	"item_name": "Soul Shroud",
-	"id": 78
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/rod-of-ages.gif",
-	"item_name": "Rod of Ages",
-	"id": 79
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/bilgewater-cutlass.gif",
-	"item_name": "Bilgewater Cutlass",
-	"id": 80
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/greater-lens.gif",
-	"item_name": "Greater Lens",
-	"id": 81
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/targons-brace.gif",
-	"item_name": "Targon's Brace",
-	"id": 82
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/kitaes-bloodrazor.gif",
-	"item_name": "Kitae's Bloodrazor",
-	"id": 83
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/hunters-talisman.gif",
-	"item_name": "Hunter's Talisman",
-	"id": 84
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ionian-boots-of-lucidity.gif",
-	"item_name": "Ionian Boots of Lucidity",
-	"id": 85
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/warmogs-armor.gif",
-	"item_name": "Warmog's Armor",
-	"id": 86
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/morellonomicon.gif",
-	"item_name": "Morellonomicon",
-	"id": 87
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/enchantment-furor.gif",
-	"item_name": "Enchantment: Furor",
-	"id": 88
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/enchantment-juggernaut.gif",
-	"item_name": "Enchantment: Juggernaut",
-	"id": 89
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/brawlers-gloves.gif",
-	"item_name": "Brawler's Gloves",
-	"id": 90
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/enchantment-cinderhulk.gif",
-	"item_name": "Enchantment: Cinderhulk",
-	"id": 91
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ninja-tabi-alacrity.gif",
-	"item_name": "Ninja Tabi - Alacrity",
-	"id": 92
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/lost-chapter.gif",
-	"item_name": "Lost Chapter",
-	"id": 93
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/moonflair-spellblade.gif",
-	"item_name": "Moonflair Spellblade",
-	"id": 94
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/spirit-visage.gif",
-	"item_name": "Spirit Visage",
-	"id": 95
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/needlessly-large-rod.gif",
-	"item_name": "Needlessly Large Rod",
-	"id": 96
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/liandrys-torment.gif",
-	"item_name": "Liandry's Torment",
-	"id": 97
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/greater-orb.gif",
-	"item_name": "Greater Orb",
-	"id": 98
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/elixir-of-fortitude.gif",
-	"item_name": "Elixir of Fortitude",
-	"id": 99
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/deaths-dance.gif",
-	"item_name": "Death's Dance",
-	"id": 100
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ohmwrecker.gif",
-	"item_name": "Ohmwrecker",
-	"id": 101
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/zzrot-portal.gif",
-	"item_name": "Zz'Rot Portal",
-	"id": 102
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/frozen-heart.gif",
-	"item_name": "Frozen Heart",
-	"id": 103
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/tiamat.gif",
-	"item_name": "Tiamat",
-	"id": 104
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/crystalline-flask.gif",
-	"item_name": "Crystalline Flask",
-	"id": 105
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/odyns-veil.gif",
-	"item_name": "Odyn's Veil",
-	"id": 106
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/wooglets-witchcap.gif",
-	"item_name": "Wooglet's Witchcap",
-	"id": 107
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/farsight-alteration.gif",
-	"item_name": "Farsight Alteration",
-	"id": 108
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/chalice-of-harmony.gif",
-	"item_name": "Chalice of Harmony",
-	"id": 109
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/dagger.gif",
-	"item_name": "Dagger",
-	"id": 110
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/boots-of-mobility-captain.gif",
-	"item_name": "Boots of Mobility - Captain",
-	"id": 111
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/berserkers-greaves-distortion.gif",
-	"item_name": "Berserker's Greaves - Distortion",
-	"id": 112
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/b-f-sword.gif",
-	"item_name": "B. F. Sword",
-	"id": 113
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/catalyst-of-aeons.gif",
-	"item_name": "Catalyst of Aeons",
-	"id": 114
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/sheen.gif",
-	"item_name": "Sheen",
-	"id": 115
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/caulfields-warhammer.gif",
-	"item_name": "Caulfield's Warhammer",
-	"id": 116
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/eye-of-the-equinox.gif",
-	"item_name": "Eye of the Equinox",
-	"id": 117
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/amplifying-tome.gif",
-	"item_name": "Amplifying Tome",
-	"id": 118
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/phage.gif",
-	"item_name": "Phage",
-	"id": 119
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/pickaxe.gif",
-	"item_name": "Pickaxe",
-	"id": 120
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/the-hex-core-mk-2.gif",
-	"item_name": "The Hex Core MK-2",
-	"id": 121
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ichor-of-rage.gif",
-	"item_name": "Ichor of Rage",
-	"id": 122
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/dorans-shield.gif",
-	"item_name": "Doran's Shield",
-	"id": 123
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ludens-echo.gif",
-	"item_name": "Luden's Echo",
-	"id": 124
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/serrated-dirk.gif",
-	"item_name": "Serrated Dirk",
-	"id": 125
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/archangels-staff.gif",
-	"item_name": "Archangel's Staff",
-	"id": 126
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/oracles-elixir.gif",
-	"item_name": "Oracle's Elixir",
-	"id": 127
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/leviathan.gif",
-	"item_name": "Leviathan",
-	"id": 128
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/heart-of-gold.gif",
-	"item_name": "Heart of Gold",
-	"id": 129
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/randuins-omen.gif",
-	"item_name": "Randuin's Omen",
-	"id": 130
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/oracles-lens.gif",
-	"item_name": "Oracle's Lens",
-	"id": 131
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/dervish-blade.gif",
-	"item_name": "Dervish Blade",
-	"id": 132
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/trackers-knife.gif",
-	"item_name": "Tracker's Knife",
-	"id": 133
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/augment-death.gif",
-	"item_name": "Augment: Death",
-	"id": 134
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/locket-of-the-iron-solari.gif",
-	"item_name": "Locket of the Iron Solari",
-	"id": 135
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/force-of-nature.gif",
-	"item_name": "Force of Nature",
-	"id": 136
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/atmas-impaler.gif",
-	"item_name": "Atma's Impaler",
-	"id": 137
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/giant-slayer.gif",
-	"item_name": "Giant Slayer",
-	"id": 138
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/the-hex-core-mk-1.gif",
-	"item_name": "The Hex Core MK-1",
-	"id": 139
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/mercurys-treads.gif",
-	"item_name": "Mercury's Treads",
-	"id": 140
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/head-of-khazix.gif",
-	"item_name": "Head of Kha'zix",
-	"id": 141
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ravenous-hydra.gif",
-	"item_name": "Ravenous Hydra",
-	"id": 142
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/trackers-knife-runeglaive.gif",
-	"item_name": "Tracker's Knife - Runeglaive",
-	"id": 143
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/skirmishers-sabre-runeglaive.gif",
-	"item_name": "Skirmisher's Sabre - Runeglaive",
-	"id": 144
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/hunters-machete.gif",
-	"item_name": "Hunter's Machete",
-	"id": 145
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/sorcerers-shoes-distortion.gif",
-	"item_name": "Sorcerer's Shoes - Distortion",
-	"id": 146
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/quill-coat.gif",
-	"item_name": "Quill Coat",
-	"id": 147
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/mercurys-treads-distortion.gif",
-	"item_name": "Mercury's Treads - Distortion",
-	"id": 148
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/mana-potion.gif",
-	"item_name": "Mana Potion",
-	"id": 149
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ardent-censer.gif",
-	"item_name": "Ardent Censer",
-	"id": 150
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/sightstone.gif",
-	"item_name": "Sightstone",
-	"id": 151
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/hunters-potion.gif",
-	"item_name": "Hunter's Potion",
-	"id": 152
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/stalkers-blade-runeglaive.gif",
-	"item_name": "Stalker's Blade - Runeglaive",
-	"id": 153
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/kindlegem.gif",
-	"item_name": "Kindlegem",
-	"id": 154
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/stinger.gif",
-	"item_name": "Stinger",
-	"id": 155
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/relic-shield.gif",
-	"item_name": "Relic Shield",
-	"id": 156
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/recurve-bow.gif",
-	"item_name": "Recurve Bow",
-	"id": 157
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/mikaels-crucible.gif",
-	"item_name": "Mikael's Crucible",
-	"id": 158
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/vampiric-scepter.gif",
-	"item_name": "Vampiric Scepter",
-	"id": 159
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/quicksilver-sash.gif",
-	"item_name": "Quicksilver Sash",
-	"id": 160
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/steraks-gage.gif",
-	"item_name": "Sterak's Gage",
-	"id": 161
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/grezs-spectral-lantern.gif",
-	"item_name": "Grez's Spectral Lantern",
-	"id": 162
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/cloak-of-agility.gif",
-	"item_name": "Cloak of Agility",
-	"id": 163
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/the-dark-seal.gif",
-	"item_name": "The Dark Seal",
-	"id": 164
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/zekes-harbinger.gif",
-	"item_name": "Zeke's Harbinger",
-	"id": 165
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/cloak-and-dagger.gif",
-	"item_name": "Cloak and Dagger",
-	"id": 166
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/skirmishers-sabre-bloodrazor.gif",
-	"item_name": "Skirmisher's Sabre - Bloodrazor",
-	"id": 167
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/orb-of-winter.gif",
-	"item_name": "Orb of Winter",
-	"id": 168
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/guardians-orb.gif",
-	"item_name": "Guardian's Orb",
-	"id": 169
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/stalkers-blade-devourer.gif",
-	"item_name": "Stalker's Blade - Devourer",
-	"id": 170
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/skirmishers-sabre-warrior.gif",
-	"item_name": "Skirmisher's Sabre - Warrior",
-	"id": 171
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/sword-of-the-divine.gif",
-	"item_name": "Sword of the Divine",
-	"id": 172
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/zeal.gif",
-	"item_name": "Zeal",
-	"id": 173
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/refillable-potion.gif",
-	"item_name": "Refillable Potion",
-	"id": 174
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/stalkers-blade-warrior.gif",
-	"item_name": "Stalker's Blade - Warrior",
-	"id": 175
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/the-black-cleaver.gif",
-	"item_name": "The Black Cleaver",
-	"id": 176
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/cull.gif",
-	"item_name": "Cull",
-	"id": 177
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ancient-coin.gif",
-	"item_name": "Ancient Coin",
-	"id": 178
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/giants-belt.gif",
-	"item_name": "Giant's Belt",
-	"id": 179
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ichor-of-illumination.gif",
-	"item_name": "Ichor of Illumination",
-	"id": 180
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/elixir-of-wrath.gif",
-	"item_name": "Elixir of Wrath",
-	"id": 181
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/berserkers-greaves-homeguard.gif",
-	"item_name": "Berserker's Greaves - Homeguard",
-	"id": 182
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/mortal-reminder.gif",
-	"item_name": "Mortal Reminder",
-	"id": 183
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/hexdrinker.gif",
-	"item_name": "Hexdrinker",
-	"id": 184
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/lich-bane.gif",
-	"item_name": "Lich Bane",
-	"id": 185
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ionian-boots-of-lucidity-alacrity.gif",
-	"item_name": "Ionian Boots of Lucidity - Alacrity",
-	"id": 186
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/berserkers-greaves-furor.gif",
-	"item_name": "Berserker's Greaves - Furor",
-	"id": 187
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/mercurys-treads-alacrity.gif",
-	"item_name": "Mercury's Treads - Alacrity",
-	"id": 188
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/guardians-hammer.gif",
-	"item_name": "Guardian's Hammer",
-	"id": 189
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/mejais-soulstealer.gif",
-	"item_name": "Mejai's Soulstealer",
-	"id": 190
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/will-of-the-ancients.gif",
-	"item_name": "Will of the Ancients",
-	"id": 191
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/greater-vision-totem.gif",
-	"item_name": "Greater Vision Totem",
-	"id": 192
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/perfect-hex-core.gif",
-	"item_name": "Perfect Hex Core",
-	"id": 193
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/righteous-glory.gif",
-	"item_name": "Righteous Glory",
-	"id": 194
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/eleisas-miracle.gif",
-	"item_name": "Eleisa's Miracle",
-	"id": 195
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/sages-ring.gif",
-	"item_name": "Sage's Ring",
-	"id": 196
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/null-magic-mantle.gif",
-	"item_name": "Null-Magic Mantle",
-	"id": 197
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/spellthiefs-edge.gif",
-	"item_name": "Spellthief's Edge",
-	"id": 198
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/trackers-knife-devourer.gif",
-	"item_name": "Tracker's Knife - Devourer",
-	"id": 199
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/dorans-ring.gif",
-	"item_name": "Doran's Ring",
-	"id": 200
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/boots-of-mobility-distortion.gif",
-	"item_name": "Boots of Mobility - Distortion",
-	"id": 201
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ionian-boots-of-lucidity-distortion.gif",
-	"item_name": "Ionian Boots of Lucidity - Distortion",
-	"id": 202
+	"id": "0"
 }, {
 	"item_image-src": "http://www.mobafire.com/images/item/aegis-of-the-legion.gif",
 	"item_name": "Aegis of the Legion",
-	"id": 203
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/essence-reaver.gif",
-	"item_name": "Essence Reaver",
-	"id": 204
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/bonetooth-necklace-green.gif",
-	"item_name": "Bonetooth Necklace (Green)",
-	"id": 205
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ionian-boots-of-lucidity-captain.gif",
-	"item_name": "Ionian Boots of Lucidity - Captain",
-	"id": 206
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/enchantment-warrior.gif",
-	"item_name": "Enchantment: Warrior",
-	"id": 207
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/sanguine-blade.gif",
-	"item_name": "Sanguine Blade",
-	"id": 208
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/augment-power.gif",
-	"item_name": "Augment: Power",
-	"id": 209
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/trackers-knife-bloodrazor.gif",
-	"item_name": "Tracker's Knife - Bloodrazor",
-	"id": 210
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/stalkers-blade.gif",
-	"item_name": "Stalker's Blade",
-	"id": 211
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/zephyr.gif",
-	"item_name": "Zephyr",
-	"id": 212
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/the-lightbringer.gif",
-	"item_name": "The Lightbringer",
-	"id": 213
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/nomads-medallion.gif",
-	"item_name": "Nomad's Medallion",
-	"id": 214
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/stalkers-blade-cinderhulk.gif",
-	"item_name": "Stalker's Blade - Cinderhulk",
-	"id": 215
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/the-hex-core.gif",
-	"item_name": "The Hex Core",
-	"id": 216
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/sweeping-lens.gif",
-	"item_name": "Sweeping Lens",
-	"id": 217
+	"id": "1"
 }, {
 	"item_image-src": "http://www.mobafire.com/images/item/aether-wisp.gif",
 	"item_name": "Aether Wisp",
-	"id": 218
+	"id": "2"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/infinity-edge.gif",
-	"item_name": "Infinity Edge",
-	"id": 219
+	"item_image-src": "http://www.mobafire.com/images/item/amplifying-tome.gif",
+	"item_name": "Amplifying Tome",
+	"id": "3"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/poachers-knife-warrior.gif",
-	"item_name": "Poacher's Knife - Warrior",
-	"id": 220
+	"item_image-src": "http://www.mobafire.com/images/item/ancient-coin.gif",
+	"item_name": "Ancient Coin",
+	"id": "4"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/elixir-of-iron.gif",
-	"item_name": "Elixir of Iron",
-	"id": 221
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/boots-of-mobility.gif",
-	"item_name": "Boots of Mobility",
-	"id": 222
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/guardians-horn.gif",
-	"item_name": "Guardian's Horn",
-	"id": 223
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/the-brutalizer.gif",
-	"item_name": "The Brutalizer",
-	"id": 224
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/trackers-knife-cinderhulk.gif",
-	"item_name": "Tracker's Knife - Cinderhulk",
-	"id": 225
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/deathfire-grasp.gif",
-	"item_name": "Deathfire Grasp",
-	"id": 226
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/lord-van-damms-pillager.gif",
-	"item_name": "Lord Van Damm's Pillager",
-	"id": 227
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/boots-of-swiftness-furor.gif",
-	"item_name": "Boots of Swiftness - Furor",
-	"id": 228
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/boots-of-swiftness-alacrity.gif",
-	"item_name": "Boots of Swiftness - Alacrity",
-	"id": 229
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/stalkers-blade-runic-echoes.gif",
-	"item_name": "Stalker's Blade - Runic Echoes",
-	"id": 230
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ruby-crystal.gif",
-	"item_name": "Ruby Crystal",
-	"id": 231
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/hextech-gunblade.gif",
-	"item_name": "Hextech Gunblade",
-	"id": 232
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/sword-of-the-occult.gif",
-	"item_name": "Sword of the Occult",
-	"id": 233
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ninja-tabi-homeguard.gif",
-	"item_name": "Ninja Tabi - Homeguard",
-	"id": 234
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/rapid-firecannon.gif",
-	"item_name": "Rapid Firecannon",
-	"id": 235
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/boots-of-swiftness-distortion.gif",
-	"item_name": "Boots of Swiftness - Distortion",
-	"id": 236
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/chain-vest.gif",
-	"item_name": "Chain Vest",
-	"id": 237
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/rangers-trailblazer-devourer.gif",
-	"item_name": "Ranger's Trailblazer - Devourer",
-	"id": 238
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ionian-boots-of-lucidity-homeguard.gif",
-	"item_name": "Ionian Boots of Lucidity - Homeguard",
-	"id": 239
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/mercurys-treads-furor.gif",
-	"item_name": "Mercury's Treads - Furor",
-	"id": 240
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/poachers-knife-devourer.gif",
-	"item_name": "Poacher's Knife - Devourer",
-	"id": 241
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/oracles-extract.gif",
-	"item_name": "Oracle's Extract",
-	"id": 242
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/berserkers-greaves-captain.gif",
-	"item_name": "Berserker's Greaves - Captain",
-	"id": 243
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ionian-boots-of-lucidity-furor.gif",
-	"item_name": "Ionian Boots of Lucidity - Furor",
-	"id": 244
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/spirit-stone.gif",
-	"item_name": "Spirit Stone",
-	"id": 245
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/ionic-spark.gif",
-	"item_name": "Ionic Spark",
-	"id": 246
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/prospectors-ring.gif",
-	"item_name": "Prospector's Ring",
-	"id": 247
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/guinsoos-rageblade.gif",
-	"item_name": "Guinsoo's Rageblade",
-	"id": 248
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/rylais-crystal-scepter.gif",
-	"item_name": "Rylai's Crystal Scepter",
-	"id": 249
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/wicked-hatchet.gif",
-	"item_name": "Wicked Hatchet",
-	"id": 250
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/the-bloodthirster.gif",
-	"item_name": "The Bloodthirster",
-	"id": 251
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/avarice-blade.gif",
-	"item_name": "Avarice Blade",
-	"id": 252
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/poachers-knife.gif",
-	"item_name": "Poacher's Knife",
-	"id": 253
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/twin-shadows.gif",
-	"item_name": "Twin Shadows",
-	"id": 254
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/elixir-of-agility.gif",
-	"item_name": "Elixir of Agility",
-	"id": 255
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/executioners-calling.gif",
-	"item_name": "Executioner's Calling",
-	"id": 256
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/boots-of-swiftness-homeguard.gif",
-	"item_name": "Boots of Swiftness - Homeguard",
-	"id": 257
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/mercurys-treads-captain.gif",
-	"item_name": "Mercury's Treads - Captain",
-	"id": 258
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/fire-at-will.gif",
-	"item_name": "Fire At Will",
-	"id": 259
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/poachers-knife-runeglaive.gif",
-	"item_name": "Poacher's Knife - Runeglaive",
-	"id": 260
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/rangers-trailblazer-warrior.gif",
-	"item_name": "Ranger's Trailblazer - Warrior",
-	"id": 261
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/mana-manipulator.gif",
-	"item_name": "Mana Manipulator",
-	"id": 262
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/kircheis-shard.gif",
-	"item_name": "Kircheis Shard",
-	"id": 263
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/deaths-daughter.gif",
-	"item_name": "Death's Daughter",
-	"id": 264
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/titanic-hydra.gif",
-	"item_name": "Titanic Hydra",
-	"id": 265
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/rabadons-deathcap.gif",
-	"item_name": "Rabadon's Deathcap",
-	"id": 266
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/rangers-trailblazer-runeglaive.gif",
-	"item_name": "Ranger's Trailblazer - Runeglaive",
-	"id": 267
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/trackers-knife-runic-echoes.gif",
-	"item_name": "Tracker's Knife - Runic Echoes",
-	"id": 268
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/banner-of-command.gif",
-	"item_name": "Banner of Command",
-	"id": 269
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/skirmishers-sabre-runic-echoes.gif",
-	"item_name": "Skirmisher's Sabre - Runic Echoes",
-	"id": 270
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/last-whisper.gif",
-	"item_name": "Last Whisper",
-	"id": 271
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/iceborn-gauntlet.gif",
-	"item_name": "Iceborn Gauntlet",
-	"id": 272
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/wits-end.gif",
-	"item_name": "Wit's End",
-	"id": 273
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/maw-of-malmortius.gif",
-	"item_name": "Maw of Malmortius",
-	"id": 274
+	"item_image-src": "http://www.mobafire.com/images/item/arcane-sweeper.gif",
+	"item_name": "Arcane Sweeper",
+	"id": "5"
 }, {
 	"item_image-src": "http://www.mobafire.com/images/item/arcane-sweeper-trinket.gif",
 	"item_name": "Arcane Sweeper Trinket",
-	"id": 275
+	"id": "6"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/cloth-armor.gif",
-	"item_name": "Cloth Armor",
-	"id": 276
+	"item_image-src": "http://www.mobafire.com/images/item/archangels-staff.gif",
+	"item_name": "Archangel's Staff",
+	"id": "7"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/mercurial-scimitar.gif",
-	"item_name": "Mercurial Scimitar",
-	"id": 277
+	"item_image-src": "http://www.mobafire.com/images/item/ardent-censer.gif",
+	"item_name": "Ardent Censer",
+	"id": "8"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/boots-of-speed.gif",
-	"item_name": "Boots of Speed",
-	"id": 278
+	"item_image-src": "http://www.mobafire.com/images/item/athenes-unholy-grail.gif",
+	"item_name": "Athene's Unholy Grail",
+	"id": "9"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/skirmishers-sabre.gif",
-	"item_name": "Skirmisher's Sabre",
-	"id": 279
+	"item_image-src": "http://www.mobafire.com/images/item/atmas-impaler.gif",
+	"item_name": "Atma's Impaler",
+	"id": "10"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/augment-death.gif",
+	"item_name": "Augment: Death",
+	"id": "11"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/augment-gravity.gif",
+	"item_name": "Augment: Gravity",
+	"id": "12"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/augment-power.gif",
+	"item_name": "Augment: Power",
+	"id": "13"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/avarice-blade.gif",
+	"item_name": "Avarice Blade",
+	"id": "14"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/b-f-sword.gif",
+	"item_name": "B. F. Sword",
+	"id": "15"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/bamis-cinder.gif",
+	"item_name": "Bami's Cinder",
+	"id": "16"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/banner-of-command.gif",
+	"item_name": "Banner of Command",
+	"id": "17"
 }, {
 	"item_image-src": "http://www.mobafire.com/images/item/banshees-veil.gif",
 	"item_name": "Banshee's Veil",
-	"id": 280
+	"id": "18"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/boots-of-mobility-furor.gif",
-	"item_name": "Boots of Mobility - Furor",
-	"id": 281
+	"item_image-src": "http://www.mobafire.com/images/item/berserkers-greaves.gif",
+	"item_name": "Berserker's Greaves",
+	"id": "19"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/lord-dominiks-regards.gif",
-	"item_name": "Lord Dominik's Regards",
-	"id": 282
+	"item_image-src": "http://www.mobafire.com/images/item/berserkers-greaves-alacrity.gif",
+	"item_name": "Berserker's Greaves - Alacrity",
+	"id": "20"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/greater-totem.gif",
-	"item_name": "Greater Totem",
-	"id": 283
+	"item_image-src": "http://www.mobafire.com/images/item/berserkers-greaves-captain.gif",
+	"item_name": "Berserker's Greaves - Captain",
+	"id": "21"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/rejuvenation-bead.gif",
-	"item_name": "Rejuvenation Bead",
-	"id": 284
+	"item_image-src": "http://www.mobafire.com/images/item/berserkers-greaves-distortion.gif",
+	"item_name": "Berserker's Greaves - Distortion",
+	"id": "22"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/runaans-hurricane.gif",
-	"item_name": "Runaan's Hurricane",
-	"id": 285
+	"item_image-src": "http://www.mobafire.com/images/item/berserkers-greaves-furor.gif",
+	"item_name": "Berserker's Greaves - Furor",
+	"id": "23"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/prospectors-blade.gif",
-	"item_name": "Prospector's Blade",
-	"id": 286
+	"item_image-src": "http://www.mobafire.com/images/item/berserkers-greaves-homeguard.gif",
+	"item_name": "Berserker's Greaves - Homeguard",
+	"id": "24"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/spirit-of-the-spectral-wraith.gif",
-	"item_name": "Spirit of the Spectral Wraith",
-	"id": 287
+	"item_image-src": "http://www.mobafire.com/images/item/bilgewater-cutlass.gif",
+	"item_name": "Bilgewater Cutlass",
+	"id": "25"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/statikk-shiv.gif",
-	"item_name": "Statikk Shiv",
-	"id": 288
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/talisman-of-ascension.gif",
-	"item_name": "Talisman of Ascension",
-	"id": 289
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/rangers-trailblazer-cinderhulk.gif",
-	"item_name": "Ranger's Trailblazer - Cinderhulk",
-	"id": 290
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/sorcerers-shoes-homeguard.gif",
-	"item_name": "Sorcerer's Shoes - Homeguard",
-	"id": 291
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/priscillas-blessing.gif",
-	"item_name": "Priscilla's Blessing",
-	"id": 292
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/poachers-knife-cinderhulk.gif",
-	"item_name": "Poacher's Knife - Cinderhulk",
-	"id": 293
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/sorcerers-shoes-alacrity.gif",
-	"item_name": "Sorcerer's Shoes - Alacrity",
-	"id": 294
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/trackers-knife-warrior.gif",
-	"item_name": "Tracker's Knife - Warrior",
-	"id": 295
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/zhonyas-ring.gif",
-	"item_name": "Zhonya's Ring",
-	"id": 296
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/raise-morale.gif",
-	"item_name": "Raise Morale",
-	"id": 297
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/greater-stealth-totem.gif",
-	"item_name": "Greater Stealth Totem",
-	"id": 298
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/morellos-evil-tome.gif",
-	"item_name": "Morello's Evil Tome",
-	"id": 299
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/trinity-force.gif",
-	"item_name": "Trinity Force",
-	"id": 300
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/zhonyas-hourglass.gif",
-	"item_name": "Zhonya's Hourglass",
-	"id": 301
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/enchantment-homeguard.gif",
-	"item_name": "Enchantment: Homeguard",
-	"id": 302
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/madreds-razors.gif",
-	"item_name": "Madred's Razors",
-	"id": 303
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/haunting-guise.gif",
-	"item_name": "Haunting Guise",
-	"id": 304
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/frozen-mallet.gif",
-	"item_name": "Frozen Mallet",
-	"id": 305
-}, {
-	"item_image-src": "http://www.mobafire.com/images/item/boots-of-swiftness-captain.gif",
-	"item_name": "Boots of Swiftness - Captain",
-	"id": 306
+	"item_image-src": "http://www.mobafire.com/images/item/blackfire-torch.gif",
+	"item_name": "Blackfire Torch",
+	"id": "26"
 }, {
 	"item_image-src": "http://www.mobafire.com/images/item/blade-of-the-ruined-king.gif",
 	"item_name": "Blade of the Ruined King",
-	"id": 307
+	"id": "27"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/raptor-cloak.gif",
-	"item_name": "Raptor Cloak",
-	"id": 308
+	"item_image-src": "http://www.mobafire.com/images/item/blasting-wand.gif",
+	"item_name": "Blasting Wand",
+	"id": "28"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/poro-snax.gif",
-	"item_name": "Poro-Snax",
-	"id": 309
+	"item_image-src": "http://www.mobafire.com/images/item/bonetooth-necklace-blue.gif",
+	"item_name": "Bonetooth Necklace (Blue)",
+	"id": "29"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/enchantment-devourer.gif",
-	"item_name": "Enchantment: Devourer",
-	"id": 310
+	"item_image-src": "http://www.mobafire.com/images/item/bonetooth-necklace-green.gif",
+	"item_name": "Bonetooth Necklace (Green)",
+	"id": "30"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/seraphs-embrace.gif",
-	"item_name": "Seraph's Embrace",
-	"id": 311
+	"item_image-src": "http://www.mobafire.com/images/item/bonetooth-necklace-red.gif",
+	"item_name": "Bonetooth Necklace (Red)",
+	"id": "31"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/youmuus-ghostblade.gif",
-	"item_name": "Youmuu's Ghostblade",
-	"id": 312
+	"item_image-src": "http://www.mobafire.com/images/item/bonetooth-necklace-yellow.gif",
+	"item_name": "Bonetooth Necklace (Yellow)",
+	"id": "32"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/dead-mans-plate.gif",
-	"item_name": "Dead Man's Plate",
-	"id": 313
+	"item_image-src": "http://www.mobafire.com/images/item/boots-of-mobility.gif",
+	"item_name": "Boots of Mobility",
+	"id": "33"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/hextech-protobelt-01.gif",
-	"item_name": "Hextech Protobelt-01",
-	"id": 314
+	"item_image-src": "http://www.mobafire.com/images/item/boots-of-mobility-alacrity.gif",
+	"item_name": "Boots of Mobility - Alacrity",
+	"id": "34"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/farsight-orb.gif",
-	"item_name": "Farsight Orb",
-	"id": 315
+	"item_image-src": "http://www.mobafire.com/images/item/boots-of-mobility-captain.gif",
+	"item_name": "Boots of Mobility - Captain",
+	"id": "35"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/wriggles-lantern.gif",
-	"item_name": "Wriggle's Lantern",
-	"id": 316
+	"item_image-src": "http://www.mobafire.com/images/item/boots-of-mobility-distortion.gif",
+	"item_name": "Boots of Mobility - Distortion",
+	"id": "36"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/thornmail.gif",
-	"item_name": "Thornmail",
-	"id": 317
+	"item_image-src": "http://www.mobafire.com/images/item/boots-of-mobility-furor.gif",
+	"item_name": "Boots of Mobility - Furor",
+	"id": "37"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/malady.gif",
-	"item_name": "Malady",
-	"id": 318
+	"item_image-src": "http://www.mobafire.com/images/item/boots-of-mobility-homeguard.gif",
+	"item_name": "Boots of Mobility - Homeguard",
+	"id": "38"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/ninja-tabi-furor.gif",
-	"item_name": "Ninja Tabi - Furor",
-	"id": 319
+	"item_image-src": "http://www.mobafire.com/images/item/boots-of-speed.gif",
+	"item_name": "Boots of Speed",
+	"id": "39"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/total-biscuit-of-rejuvenation.gif",
-	"item_name": "Total Biscuit of Rejuvenation",
-	"id": 320
+	"item_image-src": "http://www.mobafire.com/images/item/boots-of-swiftness.gif",
+	"item_name": "Boots of Swiftness",
+	"id": "40"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/innervating-locket.gif",
-	"item_name": "Innervating Locket",
-	"id": 321
+	"item_image-src": "http://www.mobafire.com/images/item/boots-of-swiftness-alacrity.gif",
+	"item_name": "Boots of Swiftness - Alacrity",
+	"id": "41"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/guardian-angel.gif",
-	"item_name": "Guardian Angel",
-	"id": 322
+	"item_image-src": "http://www.mobafire.com/images/item/boots-of-swiftness-captain.gif",
+	"item_name": "Boots of Swiftness - Captain",
+	"id": "42"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/scrying-orb.gif",
-	"item_name": "Scrying Orb",
-	"id": 323
+	"item_image-src": "http://www.mobafire.com/images/item/boots-of-swiftness-distortion.gif",
+	"item_name": "Boots of Swiftness - Distortion",
+	"id": "43"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/health-potion.gif",
-	"item_name": "Health Potion",
-	"id": 324
+	"item_image-src": "http://www.mobafire.com/images/item/boots-of-swiftness-furor.gif",
+	"item_name": "Boots of Swiftness - Furor",
+	"id": "44"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/muramana.gif",
-	"item_name": "Muramana",
-	"id": 325
+	"item_image-src": "http://www.mobafire.com/images/item/boots-of-swiftness-homeguard.gif",
+	"item_name": "Boots of Swiftness - Homeguard",
+	"id": "45"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/prototype-hex-core.gif",
-	"item_name": "Prototype Hex Core",
-	"id": 326
+	"item_image-src": "http://www.mobafire.com/images/item/brawlers-gloves.gif",
+	"item_name": "Brawler's Gloves",
+	"id": "46"
 }, {
-	"item_image-src": "http://www.mobafire.com/images/item/fiendish-codex.gif",
-	"item_name": "Fiendish Codex",
-	"id": 327
+	"item_image-src": "http://www.mobafire.com/images/item/catalyst-of-aeons.gif",
+	"item_name": "Catalyst of Aeons",
+	"id": "47"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/caulfields-warhammer.gif",
+	"item_name": "Caulfield's Warhammer",
+	"id": "48"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/chain-vest.gif",
+	"item_name": "Chain Vest",
+	"id": "49"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/chalice-of-harmony.gif",
+	"item_name": "Chalice of Harmony",
+	"id": "50"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/cloak-and-dagger.gif",
+	"item_name": "Cloak and Dagger",
+	"id": "51"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/cloak-of-agility.gif",
+	"item_name": "Cloak of Agility",
+	"id": "52"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/cloth-armor.gif",
+	"item_name": "Cloth Armor",
+	"id": "53"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/corrupting-potion.gif",
+	"item_name": "Corrupting Potion",
+	"id": "54"
 }, {
 	"item_image-src": "http://www.mobafire.com/images/item/crystalline-bracer.gif",
 	"item_name": "Crystalline Bracer",
-	"id": 328
+	"id": "55"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/crystalline-flask.gif",
+	"item_name": "Crystalline Flask",
+	"id": "56"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/cull.gif",
+	"item_name": "Cull",
+	"id": "57"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/dagger.gif",
+	"item_name": "Dagger",
+	"id": "58"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/dead-mans-plate.gif",
+	"item_name": "Dead Man's Plate",
+	"id": "59"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/deaths-dance.gif",
+	"item_name": "Death's Dance",
+	"id": "60"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/deaths-daughter.gif",
+	"item_name": "Death's Daughter",
+	"id": "61"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/deathfire-grasp.gif",
+	"item_name": "Deathfire Grasp",
+	"id": "62"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/dervish-blade.gif",
+	"item_name": "Dervish Blade",
+	"id": "63"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/dorans-blade.gif",
+	"item_name": "Doran's Blade",
+	"id": "64"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/dorans-ring.gif",
+	"item_name": "Doran's Ring",
+	"id": "65"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/dorans-shield.gif",
+	"item_name": "Doran's Shield",
+	"id": "66"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/duskblade-of-draktharr.gif",
+	"item_name": "Duskblade of Draktharr",
+	"id": "67"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/eleisas-miracle.gif",
+	"item_name": "Eleisa's Miracle",
+	"id": "68"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/elixir-of-agility.gif",
+	"item_name": "Elixir of Agility",
+	"id": "69"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/elixir-of-brilliance.gif",
+	"item_name": "Elixir of Brilliance",
+	"id": "70"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/elixir-of-fortitude.gif",
+	"item_name": "Elixir of Fortitude",
+	"id": "71"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/elixir-of-iron.gif",
+	"item_name": "Elixir of Iron",
+	"id": "72"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/elixir-of-ruin.gif",
+	"item_name": "Elixir of Ruin",
+	"id": "73"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/elixir-of-sorcery.gif",
+	"item_name": "Elixir of Sorcery",
+	"id": "74"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/elixir-of-wrath.gif",
+	"item_name": "Elixir of Wrath",
+	"id": "75"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/enchantment-alacrity.gif",
+	"item_name": "Enchantment: Alacrity",
+	"id": "76"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/enchantment-bloodrazor.gif",
+	"item_name": "Enchantment: Bloodrazor",
+	"id": "77"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/enchantment-captain.gif",
+	"item_name": "Enchantment: Captain",
+	"id": "78"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/enchantment-cinderhulk.gif",
+	"item_name": "Enchantment: Cinderhulk",
+	"id": "79"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/enchantment-devourer.gif",
+	"item_name": "Enchantment: Devourer",
+	"id": "80"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/enchantment-distortion.gif",
+	"item_name": "Enchantment: Distortion",
+	"id": "81"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/enchantment-furor.gif",
+	"item_name": "Enchantment: Furor",
+	"id": "82"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/enchantment-homeguard.gif",
+	"item_name": "Enchantment: Homeguard",
+	"id": "83"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/enchantment-juggernaut.gif",
+	"item_name": "Enchantment: Juggernaut",
+	"id": "84"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/enchantment-runeglaive.gif",
+	"item_name": "Enchantment: Runeglaive",
+	"id": "85"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/enchantment-runic-echoes.gif",
+	"item_name": "Enchantment: Runic Echoes",
+	"id": "86"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/enchantment-warrior.gif",
+	"item_name": "Enchantment: Warrior",
+	"id": "87"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/entropy.gif",
+	"item_name": "Entropy",
+	"id": "88"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/essence-reaver.gif",
+	"item_name": "Essence Reaver",
+	"id": "89"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/executioners-calling.gif",
+	"item_name": "Executioner's Calling",
+	"id": "90"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/explorers-ward.gif",
+	"item_name": "Explorer's Ward",
+	"id": "91"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/eye-of-the-equinox.gif",
+	"item_name": "Eye of the Equinox",
+	"id": "92"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/eye-of-the-oasis.gif",
+	"item_name": "Eye of the Oasis",
+	"id": "93"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/eye-of-the-watchers.gif",
+	"item_name": "Eye of the Watchers",
+	"id": "94"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/face-of-the-mountain.gif",
+	"item_name": "Face of the Mountain",
+	"id": "95"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/faerie-charm.gif",
+	"item_name": "Faerie Charm",
+	"id": "96"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/farsight-alteration.gif",
+	"item_name": "Farsight Alteration",
+	"id": "97"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/farsight-orb.gif",
+	"item_name": "Farsight Orb",
+	"id": "98"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/feral-flare.gif",
+	"item_name": "Feral Flare",
+	"id": "99"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/fiendish-codex.gif",
+	"item_name": "Fiendish Codex",
+	"id": "100"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/fire-at-will.gif",
+	"item_name": "Fire At Will",
+	"id": "101"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/forbidden-idol.gif",
+	"item_name": "Forbidden Idol",
+	"id": "102"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/force-of-nature.gif",
+	"item_name": "Force of Nature",
+	"id": "103"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/frost-queens-claim.gif",
+	"item_name": "Frost Queen's Claim",
+	"id": "104"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/frostfang.gif",
+	"item_name": "Frostfang",
+	"id": "105"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/frozen-heart.gif",
+	"item_name": "Frozen Heart",
+	"id": "106"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/frozen-mallet.gif",
+	"item_name": "Frozen Mallet",
+	"id": "107"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/giant-slayer.gif",
+	"item_name": "Giant Slayer",
+	"id": "108"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/giants-belt.gif",
+	"item_name": "Giant's Belt",
+	"id": "109"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/glacial-shroud.gif",
+	"item_name": "Glacial Shroud",
+	"id": "110"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/greater-lens.gif",
+	"item_name": "Greater Lens",
+	"id": "111"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/greater-orb.gif",
+	"item_name": "Greater Orb",
+	"id": "112"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/greater-stealth-totem.gif",
+	"item_name": "Greater Stealth Totem",
+	"id": "113"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/greater-totem.gif",
+	"item_name": "Greater Totem",
+	"id": "114"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/greater-vision-totem.gif",
+	"item_name": "Greater Vision Totem",
+	"id": "115"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/grezs-spectral-lantern.gif",
+	"item_name": "Grez's Spectral Lantern",
+	"id": "116"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/guardian-angel.gif",
+	"item_name": "Guardian Angel",
+	"id": "117"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/guardians-hammer.gif",
+	"item_name": "Guardian's Hammer",
+	"id": "118"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/guardians-horn.gif",
+	"item_name": "Guardian's Horn",
+	"id": "119"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/guardians-orb.gif",
+	"item_name": "Guardian's Orb",
+	"id": "120"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/guinsoos-rageblade.gif",
+	"item_name": "Guinsoo's Rageblade",
+	"id": "121"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/haunting-guise.gif",
+	"item_name": "Haunting Guise",
+	"id": "122"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/head-of-khazix.gif",
+	"item_name": "Head of Kha'zix",
+	"id": "123"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/health-potion.gif",
+	"item_name": "Health Potion",
+	"id": "124"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/heart-of-gold.gif",
+	"item_name": "Heart of Gold",
+	"id": "125"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/hexdrinker.gif",
+	"item_name": "Hexdrinker",
+	"id": "126"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/hextech-glp-800.gif",
+	"item_name": "Hextech GLP-800",
+	"id": "127"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/hextech-gunblade.gif",
+	"item_name": "Hextech Gunblade",
+	"id": "128"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/hextech-protobelt-01.gif",
+	"item_name": "Hextech Protobelt-01",
+	"id": "129"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/hextech-revolver.gif",
+	"item_name": "Hextech Revolver",
+	"id": "130"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/hunters-machete.gif",
+	"item_name": "Hunter's Machete",
+	"id": "131"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/hunters-potion.gif",
+	"item_name": "Hunter's Potion",
+	"id": "132"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/hunters-talisman.gif",
+	"item_name": "Hunter's Talisman",
+	"id": "133"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/iceborn-gauntlet.gif",
+	"item_name": "Iceborn Gauntlet",
+	"id": "134"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/ichor-of-illumination.gif",
+	"item_name": "Ichor of Illumination",
+	"id": "135"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/ichor-of-rage.gif",
+	"item_name": "Ichor of Rage",
+	"id": "136"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/infinity-edge.gif",
+	"item_name": "Infinity Edge",
+	"id": "137"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/innervating-locket.gif",
+	"item_name": "Innervating Locket",
+	"id": "138"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/ionian-boots-of-lucidity.gif",
+	"item_name": "Ionian Boots of Lucidity",
+	"id": "139"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/ionian-boots-of-lucidity-alacrity.gif",
+	"item_name": "Ionian Boots of Lucidity - Alacrity",
+	"id": "140"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/ionian-boots-of-lucidity-captain.gif",
+	"item_name": "Ionian Boots of Lucidity - Captain",
+	"id": "141"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/ionian-boots-of-lucidity-distortion.gif",
+	"item_name": "Ionian Boots of Lucidity - Distortion",
+	"id": "142"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/ionian-boots-of-lucidity-furor.gif",
+	"item_name": "Ionian Boots of Lucidity - Furor",
+	"id": "143"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/ionian-boots-of-lucidity-homeguard.gif",
+	"item_name": "Ionian Boots of Lucidity - Homeguard",
+	"id": "144"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/ionic-spark.gif",
+	"item_name": "Ionic Spark",
+	"id": "145"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/jaurims-fist.gif",
+	"item_name": "Jaurim's Fist",
+	"id": "146"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/kindlegem.gif",
+	"item_name": "Kindlegem",
+	"id": "147"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/kircheis-shard.gif",
+	"item_name": "Kircheis Shard",
+	"id": "148"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/kitaes-bloodrazor.gif",
+	"item_name": "Kitae's Bloodrazor",
+	"id": "149"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/last-whisper.gif",
+	"item_name": "Last Whisper",
+	"id": "150"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/leviathan.gif",
+	"item_name": "Leviathan",
+	"id": "151"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/liandrys-torment.gif",
+	"item_name": "Liandry's Torment",
+	"id": "152"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/lich-bane.gif",
+	"item_name": "Lich Bane",
+	"id": "153"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/locket-of-the-iron-solari.gif",
+	"item_name": "Locket of the Iron Solari",
+	"id": "154"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/long-sword.gif",
+	"item_name": "Long Sword",
+	"id": "155"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/lord-dominiks-regards.gif",
+	"item_name": "Lord Dominik's Regards",
+	"id": "156"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/lord-van-damms-pillager.gif",
+	"item_name": "Lord Van Damm's Pillager",
+	"id": "157"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/lost-chapter.gif",
+	"item_name": "Lost Chapter",
+	"id": "158"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/ludens-echo.gif",
+	"item_name": "Luden's Echo",
+	"id": "159"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/madreds-bloodrazor.gif",
+	"item_name": "Madred's Bloodrazor",
+	"id": "160"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/madreds-razors.gif",
+	"item_name": "Madred's Razors",
+	"id": "161"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/malady.gif",
+	"item_name": "Malady",
+	"id": "162"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/mana-manipulator.gif",
+	"item_name": "Mana Manipulator",
+	"id": "163"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/mana-potion.gif",
+	"item_name": "Mana Potion",
+	"id": "164"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/manamune.gif",
+	"item_name": "Manamune",
+	"id": "165"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/maw-of-malmortius.gif",
+	"item_name": "Maw of Malmortius",
+	"id": "166"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/mejais-soulstealer.gif",
+	"item_name": "Mejai's Soulstealer",
+	"id": "167"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/meki-pendant.gif",
+	"item_name": "Meki Pendant",
+	"id": "168"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/mercurial-scimitar.gif",
+	"item_name": "Mercurial Scimitar",
+	"id": "169"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/mercurys-treads.gif",
+	"item_name": "Mercury's Treads",
+	"id": "170"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/mercurys-treads-alacrity.gif",
+	"item_name": "Mercury's Treads - Alacrity",
+	"id": "171"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/mercurys-treads-captain.gif",
+	"item_name": "Mercury's Treads - Captain",
+	"id": "172"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/mercurys-treads-distortion.gif",
+	"item_name": "Mercury's Treads - Distortion",
+	"id": "173"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/mercurys-treads-furor.gif",
+	"item_name": "Mercury's Treads - Furor",
+	"id": "174"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/mercurys-treads-homeguard.gif",
+	"item_name": "Mercury's Treads - Homeguard",
+	"id": "175"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/mikaels-crucible.gif",
+	"item_name": "Mikael's Crucible",
+	"id": "176"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/moonflair-spellblade.gif",
+	"item_name": "Moonflair Spellblade",
+	"id": "177"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/morellos-evil-tome.gif",
+	"item_name": "Morello's Evil Tome",
+	"id": "178"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/morellonomicon.gif",
+	"item_name": "Morellonomicon",
+	"id": "179"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/mortal-reminder.gif",
+	"item_name": "Mortal Reminder",
+	"id": "180"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/muramana.gif",
+	"item_name": "Muramana",
+	"id": "181"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/nashors-tooth.gif",
+	"item_name": "Nashor's Tooth",
+	"id": "182"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/needlessly-large-rod.gif",
+	"item_name": "Needlessly Large Rod",
+	"id": "183"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/negatron-cloak.gif",
+	"item_name": "Negatron Cloak",
+	"id": "184"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/ninja-tabi.gif",
+	"item_name": "Ninja Tabi",
+	"id": "185"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/ninja-tabi-alacrity.gif",
+	"item_name": "Ninja Tabi - Alacrity",
+	"id": "186"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/ninja-tabi-captain.gif",
+	"item_name": "Ninja Tabi - Captain",
+	"id": "187"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/ninja-tabi-distortion.gif",
+	"item_name": "Ninja Tabi - Distortion",
+	"id": "188"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/ninja-tabi-furor.gif",
+	"item_name": "Ninja Tabi - Furor",
+	"id": "189"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/ninja-tabi-homeguard.gif",
+	"item_name": "Ninja Tabi - Homeguard",
+	"id": "190"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/nomads-medallion.gif",
+	"item_name": "Nomad's Medallion",
+	"id": "191"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/null-magic-mantle.gif",
+	"item_name": "Null-Magic Mantle",
+	"id": "192"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/odyns-veil.gif",
+	"item_name": "Odyn's Veil",
+	"id": "193"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/ohmwrecker.gif",
+	"item_name": "Ohmwrecker",
+	"id": "194"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/oracle-alteration.gif",
+	"item_name": "Oracle Alteration",
+	"id": "195"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/oracles-elixir.gif",
+	"item_name": "Oracle's Elixir",
+	"id": "196"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/oracles-extract.gif",
+	"item_name": "Oracle's Extract",
+	"id": "197"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/oracles-lens.gif",
+	"item_name": "Oracle's Lens",
+	"id": "198"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/orb-of-winter.gif",
+	"item_name": "Orb of Winter",
+	"id": "199"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/overlords-bloodmail.gif",
+	"item_name": "Overlord's Bloodmail",
+	"id": "200"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/perfect-hex-core.gif",
+	"item_name": "Perfect Hex Core",
+	"id": "201"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/phage.gif",
+	"item_name": "Phage",
+	"id": "202"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/phantom-dancer.gif",
+	"item_name": "Phantom Dancer",
+	"id": "203"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/pickaxe.gif",
+	"item_name": "Pickaxe",
+	"id": "204"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/poachers-knife.gif",
+	"item_name": "Poacher's Knife",
+	"id": "205"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/poachers-knife-cinderhulk.gif",
+	"item_name": "Poacher's Knife - Cinderhulk",
+	"id": "206"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/poachers-knife-devourer.gif",
+	"item_name": "Poacher's Knife - Devourer",
+	"id": "207"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/poachers-knife-runeglaive.gif",
+	"item_name": "Poacher's Knife - Runeglaive",
+	"id": "208"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/poachers-knife-warrior.gif",
+	"item_name": "Poacher's Knife - Warrior",
+	"id": "209"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/poro-snax.gif",
+	"item_name": "Poro-Snax",
+	"id": "210"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/priscillas-blessing.gif",
+	"item_name": "Priscilla's Blessing",
+	"id": "211"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/prospectors-blade.gif",
+	"item_name": "Prospector's Blade",
+	"id": "212"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/prospectors-ring.gif",
+	"item_name": "Prospector's Ring",
+	"id": "213"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/prototype-hex-core.gif",
+	"item_name": "Prototype Hex Core",
+	"id": "214"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/quicksilver-sash.gif",
+	"item_name": "Quicksilver Sash",
+	"id": "215"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/quill-coat.gif",
+	"item_name": "Quill Coat",
+	"id": "216"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/rabadons-deathcap.gif",
+	"item_name": "Rabadon's Deathcap",
+	"id": "217"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/raise-morale.gif",
+	"item_name": "Raise Morale",
+	"id": "218"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/randuins-omen.gif",
+	"item_name": "Randuin's Omen",
+	"id": "219"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/rangers-trailblazer.gif",
+	"item_name": "Ranger's Trailblazer",
+	"id": "220"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/rangers-trailblazer-cinderhulk.gif",
+	"item_name": "Ranger's Trailblazer - Cinderhulk",
+	"id": "221"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/rangers-trailblazer-devourer.gif",
+	"item_name": "Ranger's Trailblazer - Devourer",
+	"id": "222"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/rangers-trailblazer-runeglaive.gif",
+	"item_name": "Ranger's Trailblazer - Runeglaive",
+	"id": "223"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/rangers-trailblazer-warrior.gif",
+	"item_name": "Ranger's Trailblazer - Warrior",
+	"id": "224"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/rapid-firecannon.gif",
+	"item_name": "Rapid Firecannon",
+	"id": "225"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/raptor-cloak.gif",
+	"item_name": "Raptor Cloak",
+	"id": "226"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/ravenous-hydra.gif",
+	"item_name": "Ravenous Hydra",
+	"id": "227"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/recurve-bow.gif",
+	"item_name": "Recurve Bow",
+	"id": "228"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/refillable-potion.gif",
+	"item_name": "Refillable Potion",
+	"id": "229"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/regrowth-pendant.gif",
+	"item_name": "Regrowth Pendant",
+	"id": "230"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/rejuvenation-bead.gif",
+	"item_name": "Rejuvenation Bead",
+	"id": "231"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/relic-shield.gif",
+	"item_name": "Relic Shield",
+	"id": "232"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/righteous-glory.gif",
+	"item_name": "Righteous Glory",
+	"id": "233"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/rod-of-ages.gif",
+	"item_name": "Rod of Ages",
+	"id": "234"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/ruby-crystal.gif",
+	"item_name": "Ruby Crystal",
+	"id": "235"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/ruby-sightstone.gif",
+	"item_name": "Ruby Sightstone",
+	"id": "236"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/runaans-hurricane.gif",
+	"item_name": "Runaan's Hurricane",
+	"id": "237"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/runic-bulwark.gif",
+	"item_name": "Runic Bulwark",
+	"id": "238"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/rylais-crystal-scepter.gif",
+	"item_name": "Rylai's Crystal Scepter",
+	"id": "239"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/sages-ring.gif",
+	"item_name": "Sage's Ring",
+	"id": "240"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/sanguine-blade.gif",
+	"item_name": "Sanguine Blade",
+	"id": "241"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/sapphire-crystal.gif",
+	"item_name": "Sapphire Crystal",
+	"id": "242"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/scrying-orb.gif",
+	"item_name": "Scrying Orb",
+	"id": "243"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/seekers-armguard.gif",
+	"item_name": "Seeker's Armguard",
+	"id": "244"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/seraphs-embrace.gif",
+	"item_name": "Seraph's Embrace",
+	"id": "245"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/serrated-dirk.gif",
+	"item_name": "Serrated Dirk",
+	"id": "246"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/sheen.gif",
+	"item_name": "Sheen",
+	"id": "247"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/sightstone.gif",
+	"item_name": "Sightstone",
+	"id": "248"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/skirmishers-sabre.gif",
+	"item_name": "Skirmisher's Sabre",
+	"id": "249"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/skirmishers-sabre-bloodrazor.gif",
+	"item_name": "Skirmisher's Sabre - Bloodrazor",
+	"id": "250"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/skirmishers-sabre-cinderhulk.gif",
+	"item_name": "Skirmisher's Sabre - Cinderhulk",
+	"id": "251"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/skirmishers-sabre-devourer.gif",
+	"item_name": "Skirmisher's Sabre - Devourer",
+	"id": "252"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/skirmishers-sabre-runeglaive.gif",
+	"item_name": "Skirmisher's Sabre - Runeglaive",
+	"id": "253"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/skirmishers-sabre-runic-echoes.gif",
+	"item_name": "Skirmisher's Sabre - Runic Echoes",
+	"id": "254"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/skirmishers-sabre-warrior.gif",
+	"item_name": "Skirmisher's Sabre - Warrior",
+	"id": "255"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/sorcerers-shoes.gif",
+	"item_name": "Sorcerer's Shoes",
+	"id": "256"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/sorcerers-shoes-alacrity.gif",
+	"item_name": "Sorcerer's Shoes - Alacrity",
+	"id": "257"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/sorcerers-shoes-captain.gif",
+	"item_name": "Sorcerer's Shoes - Captain",
+	"id": "258"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/sorcerers-shoes-distortion.gif",
+	"item_name": "Sorcerer's Shoes - Distortion",
+	"id": "259"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/sorcerers-shoes-furor.gif",
+	"item_name": "Sorcerer's Shoes - Furor",
+	"id": "260"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/sorcerers-shoes-homeguard.gif",
+	"item_name": "Sorcerer's Shoes - Homeguard",
+	"id": "261"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/soul-anchor.gif",
+	"item_name": "Soul Anchor",
+	"id": "262"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/soul-shroud.gif",
+	"item_name": "Soul Shroud",
+	"id": "263"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/spectres-cowl.gif",
+	"item_name": "Spectre's Cowl",
+	"id": "264"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/spellthiefs-edge.gif",
+	"item_name": "Spellthief's Edge",
+	"id": "265"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/spirit-stone.gif",
+	"item_name": "Spirit Stone",
+	"id": "266"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/spirit-visage.gif",
+	"item_name": "Spirit Visage",
+	"id": "267"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/spirit-of-the-ancient-golem.gif",
+	"item_name": "Spirit of the Ancient Golem",
+	"id": "268"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/spirit-of-the-elder-lizard.gif",
+	"item_name": "Spirit of the Elder Lizard",
+	"id": "269"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/spirit-of-the-spectral-wraith.gif",
+	"item_name": "Spirit of the Spectral Wraith",
+	"id": "270"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/stalkers-blade.gif",
+	"item_name": "Stalker's Blade",
+	"id": "271"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/stalkers-blade-bloodrazor.gif",
+	"item_name": "Stalker's Blade - Bloodrazor",
+	"id": "272"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/stalkers-blade-cinderhulk.gif",
+	"item_name": "Stalker's Blade - Cinderhulk",
+	"id": "273"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/stalkers-blade-devourer.gif",
+	"item_name": "Stalker's Blade - Devourer",
+	"id": "274"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/stalkers-blade-runeglaive.gif",
+	"item_name": "Stalker's Blade - Runeglaive",
+	"id": "275"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/stalkers-blade-runic-echoes.gif",
+	"item_name": "Stalker's Blade - Runic Echoes",
+	"id": "276"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/stalkers-blade-warrior.gif",
+	"item_name": "Stalker's Blade - Warrior",
+	"id": "277"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/statikk-shiv.gif",
+	"item_name": "Statikk Shiv",
+	"id": "278"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/stealth-ward.gif",
+	"item_name": "Stealth Ward",
+	"id": "279"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/steraks-gage.gif",
+	"item_name": "Sterak's Gage",
+	"id": "280"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/stinger.gif",
+	"item_name": "Stinger",
+	"id": "281"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/sunfire-cape.gif",
+	"item_name": "Sunfire Cape",
+	"id": "282"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/sweeping-lens.gif",
+	"item_name": "Sweeping Lens",
+	"id": "283"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/sword-of-the-divine.gif",
+	"item_name": "Sword of the Divine",
+	"id": "284"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/sword-of-the-occult.gif",
+	"item_name": "Sword of the Occult",
+	"id": "285"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/talisman-of-ascension.gif",
+	"item_name": "Talisman of Ascension",
+	"id": "286"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/targons-brace.gif",
+	"item_name": "Targon's Brace",
+	"id": "287"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/tear-of-the-goddess.gif",
+	"item_name": "Tear of the Goddess",
+	"id": "288"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/the-black-cleaver.gif",
+	"item_name": "The Black Cleaver",
+	"id": "289"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/the-black-spear.gif",
+	"item_name": "The Black Spear",
+	"id": "290"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/the-bloodthirster.gif",
+	"item_name": "The Bloodthirster",
+	"id": "291"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/the-brutalizer.gif",
+	"item_name": "The Brutalizer",
+	"id": "292"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/the-dark-seal.gif",
+	"item_name": "The Dark Seal",
+	"id": "293"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/the-hex-core.gif",
+	"item_name": "The Hex Core",
+	"id": "294"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/the-hex-core-mk-1.gif",
+	"item_name": "The Hex Core MK-1",
+	"id": "295"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/the-hex-core-mk-2.gif",
+	"item_name": "The Hex Core MK-2",
+	"id": "296"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/the-lightbringer.gif",
+	"item_name": "The Lightbringer",
+	"id": "297"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/thornmail.gif",
+	"item_name": "Thornmail",
+	"id": "298"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/tiamat.gif",
+	"item_name": "Tiamat",
+	"id": "299"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/titanic-hydra.gif",
+	"item_name": "Titanic Hydra",
+	"id": "300"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/total-biscuit-of-rejuvenation.gif",
+	"item_name": "Total Biscuit of Rejuvenation",
+	"id": "301"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/trackers-knife.gif",
+	"item_name": "Tracker's Knife",
+	"id": "302"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/trackers-knife-bloodrazor.gif",
+	"item_name": "Tracker's Knife - Bloodrazor",
+	"id": "303"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/trackers-knife-cinderhulk.gif",
+	"item_name": "Tracker's Knife - Cinderhulk",
+	"id": "304"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/trackers-knife-devourer.gif",
+	"item_name": "Tracker's Knife - Devourer",
+	"id": "305"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/trackers-knife-runeglaive.gif",
+	"item_name": "Tracker's Knife - Runeglaive",
+	"id": "306"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/trackers-knife-runic-echoes.gif",
+	"item_name": "Tracker's Knife - Runic Echoes",
+	"id": "307"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/trackers-knife-warrior.gif",
+	"item_name": "Tracker's Knife - Warrior",
+	"id": "308"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/trinity-force.gif",
+	"item_name": "Trinity Force",
+	"id": "309"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/twin-shadows.gif",
+	"item_name": "Twin Shadows",
+	"id": "310"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/vampiric-scepter.gif",
+	"item_name": "Vampiric Scepter",
+	"id": "311"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/vision-ward.gif",
+	"item_name": "Vision Ward",
+	"id": "312"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/void-staff.gif",
+	"item_name": "Void Staff",
+	"id": "313"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/wardens-mail.gif",
+	"item_name": "Warden's Mail",
+	"id": "314"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/warding-totem.gif",
+	"item_name": "Warding Totem",
+	"id": "315"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/warmogs-armor.gif",
+	"item_name": "Warmog's Armor",
+	"id": "316"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/wicked-hatchet.gif",
+	"item_name": "Wicked Hatchet",
+	"id": "317"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/will-of-the-ancients.gif",
+	"item_name": "Will of the Ancients",
+	"id": "318"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/wits-end.gif",
+	"item_name": "Wit's End",
+	"id": "319"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/wooglets-witchcap.gif",
+	"item_name": "Wooglet's Witchcap",
+	"id": "320"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/wriggles-lantern.gif",
+	"item_name": "Wriggle's Lantern",
+	"id": "321"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/youmuus-ghostblade.gif",
+	"item_name": "Youmuu's Ghostblade",
+	"id": "322"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/zeal.gif",
+	"item_name": "Zeal",
+	"id": "323"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/zekes-harbinger.gif",
+	"item_name": "Zeke's Harbinger",
+	"id": "324"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/zephyr.gif",
+	"item_name": "Zephyr",
+	"id": "325"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/zhonyas-hourglass.gif",
+	"item_name": "Zhonya's Hourglass",
+	"id": "326"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/zhonyas-ring.gif",
+	"item_name": "Zhonya's Ring",
+	"id": "327"
+}, {
+	"item_image-src": "http://www.mobafire.com/images/item/zzrot-portal.gif",
+	"item_name": "Zz'Rot Portal",
+	"id": "328"
 }]
