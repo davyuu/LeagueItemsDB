@@ -1,0 +1,299 @@
+id,item_name,item_category
+1,Abyssal Scepter,Finished Items
+2,Aegis of the Legion,Advanced Items
+3,Aether Wisp,Advanced Items
+4,Alacrity,Removed Items
+5,Amplifying Tome,Basic Items
+6,Ancient Coin,Starting Items
+7,Arcane Helix,Beta / Unreleased items
+8,Arcane Sweeper,Featured Game Modes
+9,Arcane Sweeper (Trinket),Trinkets
+10,Archangel's Staff,Finished Items
+11,Archangel's Staff (Crystal Scar),Featured Game Modes
+12,Ardent Censer,Finished Items
+13,Athene's Unholy Grail,Finished Items
+14,Atma's Impaler,Removed Items
+15,Avarice Blade,Removed Items
+16,B. F. Sword,Basic Items
+17,Bami's Cinder,Advanced Items
+18,Banner of Command,Finished Items
+19,Banshee's Veil,Finished Items
+20,Berserker's Greaves,Boots
+21,Bilgewater Cutlass,Advanced Items
+22,Blackfire Torch,Removed Items
+23,Blade of the Ruined King,Finished Items
+24,Blasting Wand,Basic Items
+25,Bloodrazor,Jungle Items and Enchantments
+26,Bonetooth Necklace,Removed Items
+27,Boots of Mobility,Boots
+28,Boots of Speed,Boots
+29,Boots of Swiftness,Boots
+30,Brawler's Gloves,Basic Items
+31,Captain,Removed Items
+32,Catalyst of Aeons,Advanced Items
+33,Caulfield's Warhammer,Advanced Items
+34,Chain Vest,Advanced Items
+35,Chalice of Harmony,Advanced Items
+36,Cinderhulk,Jungle Items and Enchantments
+37,Cloak and Dagger,Removed Items
+38,Cloak of Agility,Basic Items
+39,Cloth Armor,Basic Items
+40,Corrupting Potion,Consumables
+41,Crystalline Bracer,Advanced Items
+42,Crystalline Flask,Removed Items
+43,Cull,Starting Items
+44,Dagger,Basic Items
+45,Dead Man's Plate,Finished Items
+46,Death's Dance,Finished Items
+47,Death's Daughter,Exclusive Items
+48,Deathfire Grasp,Removed Items
+49,Defense Upgrade 1,Featured Game Modes
+50,Defense Upgrade 2,Featured Game Modes
+51,Defense Upgrade 3,Featured Game Modes
+52,Dervish Blade,Finished Items
+53,Devourer,Removed Items
+54,Distortion,Removed Items
+55,Doran's Blade,Starting Items
+56,Doran's Ring,Starting Items
+57,Doran's Shield,Starting Items
+58,Duskblade of Draktharr,Finished Items
+59,Eleisa's Miracle,Removed Items
+60,Elixir of Agility,Removed Items
+61,Elixir of Brilliance,Removed Items
+62,Elixir of Fortitude,Removed Items
+63,Elixir of Iron,Consumables
+64,Elixir of Ruin,Removed Items
+65,Elixir of Sorcery,Consumables
+66,Elixir of Wrath,Consumables
+67,Emblem of Valor,Removed Items
+68,Essence Reaver,Finished Items
+69,Executioner's Calling,Advanced Items
+70,Explorer's Ward,Removed Items
+71,Eye of the Equinox,Finished Items
+72,Eye of the Oasis,Finished Items
+73,Eye of the Watchers,Finished Items
+74,Face of the Mountain,Finished Items
+75,Faerie Charm,Basic Items
+76,Farsight Alteration,Trinkets
+77,Farsight Orb,Removed Items
+78,Feral Flare,Removed Items
+79,Fiendish Codex,Advanced Items
+80,Fire At Will,Exclusive Items
+81,Flesheater,Featured Game Modes
+82,Forbidden Idol,Advanced Items
+83,Force of Nature,Removed Items
+84,Frost Queen's Claim,Finished Items
+85,Frostfang,Advanced Items
+86,Frozen Heart,Finished Items
+87,Frozen Mallet,Finished Items
+88,Furor,Removed Items
+89,Giant Slayer,Advanced Items
+90,Giant's Belt,Advanced Items
+91,Glacial Shroud,Advanced Items
+92,Globe of Trust,Featured Game Modes
+93,Golden Transcendence,Featured Game Modes
+94,Greater Lens,Removed Items
+95,Greater Orb,Removed Items
+96,Greater Stealth Totem,Removed Items
+97,Greater Totem,Removed Items
+98,Greater Vision Totem,Removed Items
+99,Grez's Spectral Lantern,Removed Items
+100,Guardian Angel,Finished Items
+101,Guardian's Hammer,Starting Items
+102,Guardian's Horn,Starting Items
+103,Guardian's Orb,Starting Items
+104,Guinsoo's Rageblade,Finished Items
+105,Haunting Guise,Advanced Items
+106,Head of Kha'Zix,Removed Items
+107,Health Potion,Consumables
+108,Heart of Gold,Removed Items
+109,Hexdrinker,Advanced Items
+110,Hextech GLP-800,Finished Items
+111,Hextech Gunblade,Finished Items
+112,Hextech Protobelt-01,Finished Items
+113,Hextech Revolver,Advanced Items
+114,Homeguard,Removed Items
+115,Hunter's Machete,Jungle Items and Enchantments
+116,Hunter's Potion,Consumables
+117,Hunter's Talisman,Jungle Items and Enchantments
+118,Iceborn Gauntlet,Finished Items
+119,Ichor of Illumination,Removed Items
+120,Ichor of Rage,Removed Items
+121,Infinity Edge,Finished Items
+122,Innervating Locket,Removed Items
+123,Ionian Boots of Lucidity,Boots
+124,Ionic Spark,Removed Items
+125,Jaurim's Fist,Advanced Items
+126,Juggernaut,Removed Items
+127,Kage's Lucky Pick,Removed Items
+128,Kindlegem,Advanced Items
+129,Kircheis Shard,Advanced Items
+130,Kitae's Bloodrazor,Removed Items
+131,Last Whisper,Advanced Items
+132,Leviathan,Removed Items
+133,Liandry's Torment,Finished Items
+134,Lich Bane,Finished Items
+135,Locket of the Iron Solari,Finished Items
+136,Long Sword,Basic Items
+137,Lord Dominik's Regards,Finished Items
+138,Lord Van Damm's Pillager,Finished Items
+139,Lost Chapter,Advanced Items
+140,Luden's Echo,Finished Items
+141,Madred's Bloodrazor,Removed Items
+142,Madred's Razors,Removed Items
+143,Magus,Removed Items
+144,Malady,Removed Items
+145,Mana Manipulator,Removed Items
+146,Mana Potion,Removed Items
+147,Manamune,Finished Items
+148,Manamune (Crystal Scar),Featured Game Modes
+149,Mandrake Ward,Beta / Unreleased items
+150,Martyr's Gambit,Featured Game Modes
+151,Maw of Malmortius,Finished Items
+152,Mejai's Soulstealer,Finished Items
+153,Meki Pendant,Removed Items
+154,Mercenary Upgrade 1,Featured Game Modes
+155,Mercenary Upgrade 2,Featured Game Modes
+156,Mercenary Upgrade 3,Featured Game Modes
+157,Mercurial Scimitar,Finished Items
+158,Mercury's Treads,Boots
+159,Mikael's Crucible,Finished Items
+160,Mirage Blade,Featured Game Modes
+161,Moonflair Spellblade,Finished Items
+162,Morellonomicon,Finished Items
+163,Mortal Reminder,Finished Items
+164,Muramana,Transformations
+165,Muramana (Crystal Scar),Featured Game Modes
+166,Murksphere,Featured Game Modes
+167,Nashor's Tooth,Finished Items
+168,Needlessly Large Rod,Basic Items
+169,Negatron Cloak,Advanced Items
+170,Netherstride Grimoire,Featured Game Modes
+171,Ninja Tabi,Boots
+172,Nomad's Medallion,Advanced Items
+173,Null-Magic Mantle,Basic Items
+174,Odyn's Veil,Featured Game Modes
+175,Offense Upgrade 1,Featured Game Modes
+176,Offense Upgrade 2,Featured Game Modes
+177,Offense Upgrade 3,Featured Game Modes
+178,Ohmwrecker,Finished Items
+179,Oracle Alteration,Trinkets
+180,Oracle's Elixir,Removed Items
+181,Oracle's Extract,Consumables
+182,Oracle's Lens,Removed Items
+183,Overlord's Bloodmail,Finished Items
+184,Perfect Hex Core,Exclusive Items
+185,Phage,Advanced Items
+186,Phantom Dancer,Finished Items
+187,Philosopher's Stone,Removed Items
+188,Pickaxe,Basic Items
+189,Poacher's Knife,Removed Items
+190,Poro-Snax,Consumables
+191,Pox Arcana,Featured Game Modes
+192,Priscilla's Blessing,Featured Game Modes
+193,Prospector's Blade,Featured Game Modes
+194,Prospector's Ring,Featured Game Modes
+195,Prototype Hex Core,Exclusive Items
+196,Puppeteer,Featured Game Modes
+197,Quicksilver Sash,Advanced Items
+198,Quill Coat,Removed Items
+199,Rabadon's Deathcap,Finished Items
+200,Raise Morale,Exclusive Items
+201,Randuin's Omen,Finished Items
+202,Ranger's Trailblazer,Removed Items
+203,Rapid Firecannon,Finished Items
+204,Raptor Cloak,Advanced Items
+205,Ravenous Hydra,Finished Items
+206,Recurve Bow,Advanced Items
+207,Refillable Potion,Consumables
+208,Regrowth Pendant,Removed Items
+209,Rejuvenation Bead,Basic Items
+210,Relic Shield,Starting Items
+211,Righteous Glory,Finished Items
+212,Rite of Ruin,Featured Game Modes
+213,Rod of Ages,Finished Items
+214,Rod of Ages (Crystal Scar),Featured Game Modes
+215,Ruby Crystal,Basic Items
+216,Ruby Sightstone,Finished Items
+217,Runaan's Hurricane,Finished Items
+218,Runeglaive,Removed Items
+219,Runic Bulwark,Removed Items
+220,Runic Echoes,Jungle Items and Enchantments
+221,Rylai's Crystal Scepter,Finished Items
+222,Sanguine Blade,Finished Items
+223,Sapphire Crystal,Basic Items
+224,Sated Devourer,Removed Items
+225,Scrying Orb,Removed Items
+226,Seeker's Armguard,Advanced Items
+227,Seraph's Embrace,Transformations
+228,Seraph's Embrace (Crystal Scar),Featured Game Modes
+229,Serrated Dirk,Advanced Items
+230,Shard of True Ice,Removed Items
+231,Sheen,Advanced Items
+232,Shurelya's Reverie,Removed Items
+233,Sightstone,Advanced Items
+234,Skirmisher's Sabre,Jungle Items and Enchantments
+235,Sorcerer's Shoes,Boots
+236,Soul Anchor,Featured Game Modes
+237,Soul Shroud,Removed Items
+238,Spectre's Cowl,Advanced Items
+239,Spellbreaker,Beta / Unreleased items
+240,Spellthief's Edge,Starting Items
+241,Spirit Stone,Removed Items
+242,Spirit Visage,Finished Items
+243,Spirit of the Ancient Golem,Removed Items
+244,Spirit of the Elder Lizard,Removed Items
+245,Spirit of the Spectral Wraith,Removed Items
+246,Staff of Flowing Water,Featured Game Modes
+247,Stalker's Blade,Jungle Items and Enchantments
+248,Statikk Shiv,Finished Items
+249,Stealth Ward,Removed Items
+250,Sterak's Gage,Finished Items
+251,Stinger,Advanced Items
+252,Sunfire Cape,Finished Items
+253,Sweeping Lens,Trinkets
+254,Swindler's Orb,Featured Game Modes
+255,Sword of the Divine,Removed Items
+256,Sword of the Occult,Removed Items
+257,Talisman of Ascension,Finished Items
+258,Targon's Brace,Advanced Items
+259,Tear of the Goddess,Advanced Items
+260,Tear of the Goddess (Crystal Scar),Featured Game Modes
+261,Teleport,Featured Game Modes
+262,The Black Cleaver,Finished Items
+263,The Black Spear,Exclusive Items
+264,The Bloodthirster,Finished Items
+265,The Brutalizer,Removed Items
+266,The Dark Seal,Starting Items
+267,The Hex Core mk-1,Exclusive Items
+268,The Hex Core mk-2,Exclusive Items
+269,The Lightbringer,Featured Game Modes
+270,Thornmail,Finished Items
+271,Tiamat,Advanced Items
+272,Titanic Hydra,Finished Items
+273,Total Biscuit of Rejuvenation,Consumables
+274,Tracker's Knife,Jungle Items and Enchantments
+275,Trickster's Glass,Featured Game Modes
+276,Trinity Force,Finished Items
+277,Twin Shadows,Removed Items
+278,Typhoon Claws,Featured Game Modes
+279,Vampiric Scepter,Advanced Items
+280,Vision Ward,Consumables
+281,Void Staff,Finished Items
+282,Warden's Mail,Advanced Items
+283,Warding Totem,Trinkets
+284,Warmog's Armor,Finished Items
+285,Warrior,Jungle Items and Enchantments
+286,Wicked Hatchet,Advanced Items
+287,Will of the Ancients,Removed Items
+288,Wit's End,Finished Items
+289,Wooglet's Witchcap,Finished Items
+290,Wriggle's Lantern,Removed Items
+291,Youmuu's Ghostblade,Finished Items
+292,Zeal,Advanced Items
+293,Zeke's Harbinger,Finished Items
+294,Zeke's Herald,Removed Items
+295,Zephyr,Removed Items
+296,Zhonya's Hourglass,Finished Items
+297,Zhonya's Ring,Removed Items
+298,Zz'Rot Portal,Finished Items
