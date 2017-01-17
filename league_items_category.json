@@ -1,1193 +1,1193 @@
 [{
-	"id": "0",
 	"item_name": "Abyssal Scepter",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 0
 }, {
-	"id": "1",
 	"item_name": "Aegis of the Legion",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 1
 }, {
-	"id": "2",
 	"item_name": "Aether Wisp",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 2
 }, {
-	"id": "3",
 	"item_name": "Alacrity",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 3
 }, {
-	"id": "4",
 	"item_name": "Amplifying Tome",
-	"item_category": "Basic Items"
+	"item_category": "Basic Items",
+	"_id": 4
 }, {
-	"id": "5",
 	"item_name": "Ancient Coin",
-	"item_category": "Starting Items"
+	"item_category": "Starting Items",
+	"_id": 5
 }, {
-	"id": "6",
 	"item_name": "Arcane Helix",
-	"item_category": "Beta / Unreleased items"
+	"item_category": "Beta / Unreleased items",
+	"_id": 6
 }, {
-	"id": "7",
 	"item_name": "Arcane Sweeper",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 7
 }, {
-	"id": "8",
 	"item_name": "Arcane Sweeper (Trinket)",
-	"item_category": "Trinkets"
+	"item_category": "Trinkets",
+	"_id": 8
 }, {
-	"id": "9",
 	"item_name": "Archangel's Staff",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 9
 }, {
-	"id": "10",
 	"item_name": "Archangel's Staff (Crystal Scar)",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 10
 }, {
-	"id": "11",
 	"item_name": "Ardent Censer",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 11
 }, {
-	"id": "12",
 	"item_name": "Athene's Unholy Grail",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 12
 }, {
-	"id": "13",
 	"item_name": "Atma's Impaler",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 13
 }, {
-	"id": "14",
 	"item_name": "Avarice Blade",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 14
 }, {
-	"id": "15",
 	"item_name": "B. F. Sword",
-	"item_category": "Basic Items"
+	"item_category": "Basic Items",
+	"_id": 15
 }, {
-	"id": "16",
 	"item_name": "Bami's Cinder",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 16
 }, {
-	"id": "17",
 	"item_name": "Banner of Command",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 17
 }, {
-	"id": "18",
 	"item_name": "Banshee's Veil",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 18
 }, {
-	"id": "19",
 	"item_name": "Berserker's Greaves",
-	"item_category": "Boots"
+	"item_category": "Boots",
+	"_id": 19
 }, {
-	"id": "20",
 	"item_name": "Bilgewater Cutlass",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 20
 }, {
-	"id": "21",
 	"item_name": "Blackfire Torch",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 21
 }, {
-	"id": "22",
 	"item_name": "Blade of the Ruined King",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 22
 }, {
-	"id": "23",
 	"item_name": "Blasting Wand",
-	"item_category": "Basic Items"
+	"item_category": "Basic Items",
+	"_id": 23
 }, {
-	"id": "24",
 	"item_name": "Bloodrazor",
-	"item_category": "Jungle Items and Enchantments"
+	"item_category": "Jungle Items and Enchantments",
+	"_id": 24
 }, {
-	"id": "25",
 	"item_name": "Bonetooth Necklace",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 25
 }, {
-	"id": "26",
 	"item_name": "Boots of Mobility",
-	"item_category": "Boots"
+	"item_category": "Boots",
+	"_id": 26
 }, {
-	"id": "27",
 	"item_name": "Boots of Speed",
-	"item_category": "Boots"
+	"item_category": "Boots",
+	"_id": 27
 }, {
-	"id": "28",
 	"item_name": "Boots of Swiftness",
-	"item_category": "Boots"
+	"item_category": "Boots",
+	"_id": 28
 }, {
-	"id": "29",
 	"item_name": "Brawler's Gloves",
-	"item_category": "Basic Items"
+	"item_category": "Basic Items",
+	"_id": 29
 }, {
-	"id": "30",
 	"item_name": "Captain",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 30
 }, {
-	"id": "31",
 	"item_name": "Catalyst of Aeons",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 31
 }, {
-	"id": "32",
 	"item_name": "Caulfield's Warhammer",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 32
 }, {
-	"id": "33",
 	"item_name": "Chain Vest",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 33
 }, {
-	"id": "34",
 	"item_name": "Chalice of Harmony",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 34
 }, {
-	"id": "35",
 	"item_name": "Cinderhulk",
-	"item_category": "Jungle Items and Enchantments"
+	"item_category": "Jungle Items and Enchantments",
+	"_id": 35
 }, {
-	"id": "36",
 	"item_name": "Cloak and Dagger",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 36
 }, {
-	"id": "37",
 	"item_name": "Cloak of Agility",
-	"item_category": "Basic Items"
+	"item_category": "Basic Items",
+	"_id": 37
 }, {
-	"id": "38",
 	"item_name": "Cloth Armor",
-	"item_category": "Basic Items"
+	"item_category": "Basic Items",
+	"_id": 38
 }, {
-	"id": "39",
 	"item_name": "Corrupting Potion",
-	"item_category": "Consumables"
+	"item_category": "Consumables",
+	"_id": 39
 }, {
-	"id": "40",
 	"item_name": "Crystalline Bracer",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 40
 }, {
-	"id": "41",
 	"item_name": "Crystalline Flask",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 41
 }, {
-	"id": "42",
 	"item_name": "Cull",
-	"item_category": "Starting Items"
+	"item_category": "Starting Items",
+	"_id": 42
 }, {
-	"id": "43",
 	"item_name": "Dagger",
-	"item_category": "Basic Items"
+	"item_category": "Basic Items",
+	"_id": 43
 }, {
-	"id": "44",
 	"item_name": "Dead Man's Plate",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 44
 }, {
-	"id": "45",
 	"item_name": "Death's Dance",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 45
 }, {
-	"id": "46",
 	"item_name": "Death's Daughter",
-	"item_category": "Exclusive Items"
+	"item_category": "Exclusive Items",
+	"_id": 46
 }, {
-	"id": "47",
 	"item_name": "Deathfire Grasp",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 47
 }, {
-	"id": "48",
 	"item_name": "Defense Upgrade 1",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 48
 }, {
-	"id": "49",
 	"item_name": "Defense Upgrade 2",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 49
 }, {
-	"id": "50",
 	"item_name": "Defense Upgrade 3",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 50
 }, {
-	"id": "51",
 	"item_name": "Dervish Blade",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 51
 }, {
-	"id": "52",
 	"item_name": "Devourer",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 52
 }, {
-	"id": "53",
 	"item_name": "Distortion",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 53
 }, {
-	"id": "54",
 	"item_name": "Doran's Blade",
-	"item_category": "Starting Items"
+	"item_category": "Starting Items",
+	"_id": 54
 }, {
-	"id": "55",
 	"item_name": "Doran's Ring",
-	"item_category": "Starting Items"
+	"item_category": "Starting Items",
+	"_id": 55
 }, {
-	"id": "56",
 	"item_name": "Doran's Shield",
-	"item_category": "Starting Items"
+	"item_category": "Starting Items",
+	"_id": 56
 }, {
-	"id": "57",
 	"item_name": "Duskblade of Draktharr",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 57
 }, {
-	"id": "58",
 	"item_name": "Eleisa's Miracle",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 58
 }, {
-	"id": "59",
 	"item_name": "Elixir of Agility",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 59
 }, {
-	"id": "60",
 	"item_name": "Elixir of Brilliance",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 60
 }, {
-	"id": "61",
 	"item_name": "Elixir of Fortitude",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 61
 }, {
-	"id": "62",
 	"item_name": "Elixir of Iron",
-	"item_category": "Consumables"
+	"item_category": "Consumables",
+	"_id": 62
 }, {
-	"id": "63",
 	"item_name": "Elixir of Ruin",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 63
 }, {
-	"id": "64",
 	"item_name": "Elixir of Sorcery",
-	"item_category": "Consumables"
+	"item_category": "Consumables",
+	"_id": 64
 }, {
-	"id": "65",
 	"item_name": "Elixir of Wrath",
-	"item_category": "Consumables"
+	"item_category": "Consumables",
+	"_id": 65
 }, {
-	"id": "66",
 	"item_name": "Emblem of Valor",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 66
 }, {
-	"id": "67",
 	"item_name": "Essence Reaver",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 67
 }, {
-	"id": "68",
 	"item_name": "Executioner's Calling",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 68
 }, {
-	"id": "69",
 	"item_name": "Explorer's Ward",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 69
 }, {
-	"id": "70",
 	"item_name": "Eye of the Equinox",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 70
 }, {
-	"id": "71",
 	"item_name": "Eye of the Oasis",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 71
 }, {
-	"id": "72",
 	"item_name": "Eye of the Watchers",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 72
 }, {
-	"id": "73",
 	"item_name": "Face of the Mountain",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 73
 }, {
-	"id": "74",
 	"item_name": "Faerie Charm",
-	"item_category": "Basic Items"
+	"item_category": "Basic Items",
+	"_id": 74
 }, {
-	"id": "75",
 	"item_name": "Farsight Alteration",
-	"item_category": "Trinkets"
+	"item_category": "Trinkets",
+	"_id": 75
 }, {
-	"id": "76",
 	"item_name": "Farsight Orb",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 76
 }, {
-	"id": "77",
 	"item_name": "Feral Flare",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 77
 }, {
-	"id": "78",
 	"item_name": "Fiendish Codex",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 78
 }, {
-	"id": "79",
 	"item_name": "Fire At Will",
-	"item_category": "Exclusive Items"
+	"item_category": "Exclusive Items",
+	"_id": 79
 }, {
-	"id": "80",
 	"item_name": "Flesheater",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 80
 }, {
-	"id": "81",
 	"item_name": "Forbidden Idol",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 81
 }, {
-	"id": "82",
 	"item_name": "Force of Nature",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 82
 }, {
-	"id": "83",
 	"item_name": "Frost Queen's Claim",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 83
 }, {
-	"id": "84",
 	"item_name": "Frostfang",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 84
 }, {
-	"id": "85",
 	"item_name": "Frozen Heart",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 85
 }, {
-	"id": "86",
 	"item_name": "Frozen Mallet",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 86
 }, {
-	"id": "87",
 	"item_name": "Furor",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 87
 }, {
-	"id": "88",
 	"item_name": "Giant Slayer",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 88
 }, {
-	"id": "89",
 	"item_name": "Giant's Belt",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 89
 }, {
-	"id": "90",
 	"item_name": "Glacial Shroud",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 90
 }, {
-	"id": "91",
 	"item_name": "Globe of Trust",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 91
 }, {
-	"id": "92",
 	"item_name": "Golden Transcendence",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 92
 }, {
-	"id": "93",
 	"item_name": "Greater Lens",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 93
 }, {
-	"id": "94",
 	"item_name": "Greater Orb",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 94
 }, {
-	"id": "95",
 	"item_name": "Greater Stealth Totem",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 95
 }, {
-	"id": "96",
 	"item_name": "Greater Totem",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 96
 }, {
-	"id": "97",
 	"item_name": "Greater Vision Totem",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 97
 }, {
-	"id": "98",
 	"item_name": "Grez's Spectral Lantern",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 98
 }, {
-	"id": "99",
 	"item_name": "Guardian Angel",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 99
 }, {
-	"id": "100",
 	"item_name": "Guardian's Hammer",
-	"item_category": "Starting Items"
+	"item_category": "Starting Items",
+	"_id": 100
 }, {
-	"id": "101",
 	"item_name": "Guardian's Horn",
-	"item_category": "Starting Items"
+	"item_category": "Starting Items",
+	"_id": 101
 }, {
-	"id": "102",
 	"item_name": "Guardian's Orb",
-	"item_category": "Starting Items"
+	"item_category": "Starting Items",
+	"_id": 102
 }, {
-	"id": "103",
 	"item_name": "Guinsoo's Rageblade",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 103
 }, {
-	"id": "104",
 	"item_name": "Haunting Guise",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 104
 }, {
-	"id": "105",
 	"item_name": "Head of Kha'Zix",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 105
 }, {
-	"id": "106",
 	"item_name": "Health Potion",
-	"item_category": "Consumables"
+	"item_category": "Consumables",
+	"_id": 106
 }, {
-	"id": "107",
 	"item_name": "Heart of Gold",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 107
 }, {
-	"id": "108",
 	"item_name": "Hexdrinker",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 108
 }, {
-	"id": "109",
 	"item_name": "Hextech GLP-800",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 109
 }, {
-	"id": "110",
 	"item_name": "Hextech Gunblade",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 110
 }, {
-	"id": "111",
 	"item_name": "Hextech Protobelt-01",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 111
 }, {
-	"id": "112",
 	"item_name": "Hextech Revolver",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 112
 }, {
-	"id": "113",
 	"item_name": "Homeguard",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 113
 }, {
-	"id": "114",
 	"item_name": "Hunter's Machete",
-	"item_category": "Jungle Items and Enchantments"
+	"item_category": "Jungle Items and Enchantments",
+	"_id": 114
 }, {
-	"id": "115",
 	"item_name": "Hunter's Potion",
-	"item_category": "Consumables"
+	"item_category": "Consumables",
+	"_id": 115
 }, {
-	"id": "116",
 	"item_name": "Hunter's Talisman",
-	"item_category": "Jungle Items and Enchantments"
+	"item_category": "Jungle Items and Enchantments",
+	"_id": 116
 }, {
-	"id": "117",
 	"item_name": "Iceborn Gauntlet",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 117
 }, {
-	"id": "118",
 	"item_name": "Ichor of Illumination",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 118
 }, {
-	"id": "119",
 	"item_name": "Ichor of Rage",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 119
 }, {
-	"id": "120",
 	"item_name": "Infinity Edge",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 120
 }, {
-	"id": "121",
 	"item_name": "Innervating Locket",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 121
 }, {
-	"id": "122",
 	"item_name": "Ionian Boots of Lucidity",
-	"item_category": "Boots"
+	"item_category": "Boots",
+	"_id": 122
 }, {
-	"id": "123",
 	"item_name": "Ionic Spark",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 123
 }, {
-	"id": "124",
 	"item_name": "Jaurim's Fist",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 124
 }, {
-	"id": "125",
 	"item_name": "Juggernaut",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 125
 }, {
-	"id": "126",
 	"item_name": "Kage's Lucky Pick",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 126
 }, {
-	"id": "127",
 	"item_name": "Kindlegem",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 127
 }, {
-	"id": "128",
 	"item_name": "Kircheis Shard",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 128
 }, {
-	"id": "129",
 	"item_name": "Kitae's Bloodrazor",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 129
 }, {
-	"id": "130",
 	"item_name": "Last Whisper",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 130
 }, {
-	"id": "131",
 	"item_name": "Leviathan",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 131
 }, {
-	"id": "132",
 	"item_name": "Liandry's Torment",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 132
 }, {
-	"id": "133",
 	"item_name": "Lich Bane",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 133
 }, {
-	"id": "134",
 	"item_name": "Locket of the Iron Solari",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 134
 }, {
-	"id": "135",
 	"item_name": "Long Sword",
-	"item_category": "Basic Items"
+	"item_category": "Basic Items",
+	"_id": 135
 }, {
-	"id": "136",
 	"item_name": "Lord Dominik's Regards",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 136
 }, {
-	"id": "137",
 	"item_name": "Lord Van Damm's Pillager",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 137
 }, {
-	"id": "138",
 	"item_name": "Lost Chapter",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 138
 }, {
-	"id": "139",
 	"item_name": "Luden's Echo",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 139
 }, {
-	"id": "140",
 	"item_name": "Madred's Bloodrazor",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 140
 }, {
-	"id": "141",
 	"item_name": "Madred's Razors",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 141
 }, {
-	"id": "142",
 	"item_name": "Magus",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 142
 }, {
-	"id": "143",
 	"item_name": "Malady",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 143
 }, {
-	"id": "144",
 	"item_name": "Mana Manipulator",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 144
 }, {
-	"id": "145",
 	"item_name": "Mana Potion",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 145
 }, {
-	"id": "146",
 	"item_name": "Manamune",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 146
 }, {
-	"id": "147",
 	"item_name": "Manamune (Crystal Scar)",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 147
 }, {
-	"id": "148",
 	"item_name": "Mandrake Ward",
-	"item_category": "Beta / Unreleased items"
+	"item_category": "Beta / Unreleased items",
+	"_id": 148
 }, {
-	"id": "149",
 	"item_name": "Martyr's Gambit",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 149
 }, {
-	"id": "150",
 	"item_name": "Maw of Malmortius",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 150
 }, {
-	"id": "151",
 	"item_name": "Mejai's Soulstealer",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 151
 }, {
-	"id": "152",
 	"item_name": "Meki Pendant",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 152
 }, {
-	"id": "153",
 	"item_name": "Mercenary Upgrade 1",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 153
 }, {
-	"id": "154",
 	"item_name": "Mercenary Upgrade 2",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 154
 }, {
-	"id": "155",
 	"item_name": "Mercenary Upgrade 3",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 155
 }, {
-	"id": "156",
 	"item_name": "Mercurial Scimitar",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 156
 }, {
-	"id": "157",
 	"item_name": "Mercury's Treads",
-	"item_category": "Boots"
+	"item_category": "Boots",
+	"_id": 157
 }, {
-	"id": "158",
 	"item_name": "Mikael's Crucible",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 158
 }, {
-	"id": "159",
 	"item_name": "Mirage Blade",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 159
 }, {
-	"id": "160",
 	"item_name": "Moonflair Spellblade",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 160
 }, {
-	"id": "161",
 	"item_name": "Morellonomicon",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 161
 }, {
-	"id": "162",
 	"item_name": "Mortal Reminder",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 162
 }, {
-	"id": "163",
 	"item_name": "Muramana",
-	"item_category": "Transformations"
+	"item_category": "Transformations",
+	"_id": 163
 }, {
-	"id": "164",
 	"item_name": "Muramana (Crystal Scar)",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 164
 }, {
-	"id": "165",
 	"item_name": "Murksphere",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 165
 }, {
-	"id": "166",
 	"item_name": "Nashor's Tooth",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 166
 }, {
-	"id": "167",
 	"item_name": "Needlessly Large Rod",
-	"item_category": "Basic Items"
+	"item_category": "Basic Items",
+	"_id": 167
 }, {
-	"id": "168",
 	"item_name": "Negatron Cloak",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 168
 }, {
-	"id": "169",
 	"item_name": "Netherstride Grimoire",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 169
 }, {
-	"id": "170",
 	"item_name": "Ninja Tabi",
-	"item_category": "Boots"
+	"item_category": "Boots",
+	"_id": 170
 }, {
-	"id": "171",
 	"item_name": "Nomad's Medallion",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 171
 }, {
-	"id": "172",
 	"item_name": "Null-Magic Mantle",
-	"item_category": "Basic Items"
+	"item_category": "Basic Items",
+	"_id": 172
 }, {
-	"id": "173",
 	"item_name": "Odyn's Veil",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 173
 }, {
-	"id": "174",
 	"item_name": "Offense Upgrade 1",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 174
 }, {
-	"id": "175",
 	"item_name": "Offense Upgrade 2",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 175
 }, {
-	"id": "176",
 	"item_name": "Offense Upgrade 3",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 176
 }, {
-	"id": "177",
 	"item_name": "Ohmwrecker",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 177
 }, {
-	"id": "178",
 	"item_name": "Oracle Alteration",
-	"item_category": "Trinkets"
+	"item_category": "Trinkets",
+	"_id": 178
 }, {
-	"id": "179",
 	"item_name": "Oracle's Elixir",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 179
 }, {
-	"id": "180",
 	"item_name": "Oracle's Extract",
-	"item_category": "Consumables"
+	"item_category": "Consumables",
+	"_id": 180
 }, {
-	"id": "181",
 	"item_name": "Oracle's Lens",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 181
 }, {
-	"id": "182",
 	"item_name": "Overlord's Bloodmail",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 182
 }, {
-	"id": "183",
 	"item_name": "Perfect Hex Core",
-	"item_category": "Exclusive Items"
+	"item_category": "Exclusive Items",
+	"_id": 183
 }, {
-	"id": "184",
 	"item_name": "Phage",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 184
 }, {
-	"id": "185",
 	"item_name": "Phantom Dancer",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 185
 }, {
-	"id": "186",
 	"item_name": "Philosopher's Stone",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 186
 }, {
-	"id": "187",
 	"item_name": "Pickaxe",
-	"item_category": "Basic Items"
+	"item_category": "Basic Items",
+	"_id": 187
 }, {
-	"id": "188",
 	"item_name": "Poacher's Knife",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 188
 }, {
-	"id": "189",
 	"item_name": "Poro-Snax",
-	"item_category": "Consumables"
+	"item_category": "Consumables",
+	"_id": 189
 }, {
-	"id": "190",
 	"item_name": "Pox Arcana",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 190
 }, {
-	"id": "191",
 	"item_name": "Priscilla's Blessing",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 191
 }, {
-	"id": "192",
 	"item_name": "Prospector's Blade",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 192
 }, {
-	"id": "193",
 	"item_name": "Prospector's Ring",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 193
 }, {
-	"id": "194",
 	"item_name": "Prototype Hex Core",
-	"item_category": "Exclusive Items"
+	"item_category": "Exclusive Items",
+	"_id": 194
 }, {
-	"id": "195",
 	"item_name": "Puppeteer",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 195
 }, {
-	"id": "196",
 	"item_name": "Quicksilver Sash",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 196
 }, {
-	"id": "197",
 	"item_name": "Quill Coat",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 197
 }, {
-	"id": "198",
 	"item_name": "Rabadon's Deathcap",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 198
 }, {
-	"id": "199",
 	"item_name": "Raise Morale",
-	"item_category": "Exclusive Items"
+	"item_category": "Exclusive Items",
+	"_id": 199
 }, {
-	"id": "200",
 	"item_name": "Randuin's Omen",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 200
 }, {
-	"id": "201",
 	"item_name": "Ranger's Trailblazer",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 201
 }, {
-	"id": "202",
 	"item_name": "Rapid Firecannon",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 202
 }, {
-	"id": "203",
 	"item_name": "Raptor Cloak",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 203
 }, {
-	"id": "204",
 	"item_name": "Ravenous Hydra",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 204
 }, {
-	"id": "205",
 	"item_name": "Recurve Bow",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 205
 }, {
-	"id": "206",
 	"item_name": "Refillable Potion",
-	"item_category": "Consumables"
+	"item_category": "Consumables",
+	"_id": 206
 }, {
-	"id": "207",
 	"item_name": "Regrowth Pendant",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 207
 }, {
-	"id": "208",
 	"item_name": "Rejuvenation Bead",
-	"item_category": "Basic Items"
+	"item_category": "Basic Items",
+	"_id": 208
 }, {
-	"id": "209",
 	"item_name": "Relic Shield",
-	"item_category": "Starting Items"
+	"item_category": "Starting Items",
+	"_id": 209
 }, {
-	"id": "210",
 	"item_name": "Righteous Glory",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 210
 }, {
-	"id": "211",
 	"item_name": "Rite of Ruin",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 211
 }, {
-	"id": "212",
 	"item_name": "Rod of Ages",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 212
 }, {
-	"id": "213",
 	"item_name": "Rod of Ages (Crystal Scar)",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 213
 }, {
-	"id": "214",
 	"item_name": "Ruby Crystal",
-	"item_category": "Basic Items"
+	"item_category": "Basic Items",
+	"_id": 214
 }, {
-	"id": "215",
 	"item_name": "Ruby Sightstone",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 215
 }, {
-	"id": "216",
 	"item_name": "Runaan's Hurricane",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 216
 }, {
-	"id": "217",
 	"item_name": "Runeglaive",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 217
 }, {
-	"id": "218",
 	"item_name": "Runic Bulwark",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 218
 }, {
-	"id": "219",
 	"item_name": "Runic Echoes",
-	"item_category": "Jungle Items and Enchantments"
+	"item_category": "Jungle Items and Enchantments",
+	"_id": 219
 }, {
-	"id": "220",
 	"item_name": "Rylai's Crystal Scepter",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 220
 }, {
-	"id": "221",
 	"item_name": "Sanguine Blade",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 221
 }, {
-	"id": "222",
 	"item_name": "Sapphire Crystal",
-	"item_category": "Basic Items"
+	"item_category": "Basic Items",
+	"_id": 222
 }, {
-	"id": "223",
 	"item_name": "Sated Devourer",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 223
 }, {
-	"id": "224",
 	"item_name": "Scrying Orb",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 224
 }, {
-	"id": "225",
 	"item_name": "Seeker's Armguard",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 225
 }, {
-	"id": "226",
 	"item_name": "Seraph's Embrace",
-	"item_category": "Transformations"
+	"item_category": "Transformations",
+	"_id": 226
 }, {
-	"id": "227",
 	"item_name": "Seraph's Embrace (Crystal Scar)",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 227
 }, {
-	"id": "228",
 	"item_name": "Serrated Dirk",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 228
 }, {
-	"id": "229",
 	"item_name": "Shard of True Ice",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 229
 }, {
-	"id": "230",
 	"item_name": "Sheen",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 230
 }, {
-	"id": "231",
 	"item_name": "Shurelya's Reverie",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 231
 }, {
-	"id": "232",
 	"item_name": "Sightstone",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 232
 }, {
-	"id": "233",
 	"item_name": "Skirmisher's Sabre",
-	"item_category": "Jungle Items and Enchantments"
+	"item_category": "Jungle Items and Enchantments",
+	"_id": 233
 }, {
-	"id": "234",
 	"item_name": "Sorcerer's Shoes",
-	"item_category": "Boots"
+	"item_category": "Boots",
+	"_id": 234
 }, {
-	"id": "235",
 	"item_name": "Soul Anchor",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 235
 }, {
-	"id": "236",
 	"item_name": "Soul Shroud",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 236
 }, {
-	"id": "237",
 	"item_name": "Spectre's Cowl",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 237
 }, {
-	"id": "238",
 	"item_name": "Spellbreaker",
-	"item_category": "Beta / Unreleased items"
+	"item_category": "Beta / Unreleased items",
+	"_id": 238
 }, {
-	"id": "239",
 	"item_name": "Spellthief's Edge",
-	"item_category": "Starting Items"
+	"item_category": "Starting Items",
+	"_id": 239
 }, {
-	"id": "240",
 	"item_name": "Spirit Stone",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 240
 }, {
-	"id": "241",
 	"item_name": "Spirit Visage",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 241
 }, {
-	"id": "242",
 	"item_name": "Spirit of the Ancient Golem",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 242
 }, {
-	"id": "243",
 	"item_name": "Spirit of the Elder Lizard",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 243
 }, {
-	"id": "244",
 	"item_name": "Spirit of the Spectral Wraith",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 244
 }, {
-	"id": "245",
 	"item_name": "Staff of Flowing Water",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 245
 }, {
-	"id": "246",
 	"item_name": "Stalker's Blade",
-	"item_category": "Jungle Items and Enchantments"
+	"item_category": "Jungle Items and Enchantments",
+	"_id": 246
 }, {
-	"id": "247",
 	"item_name": "Statikk Shiv",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 247
 }, {
-	"id": "248",
 	"item_name": "Stealth Ward",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 248
 }, {
-	"id": "249",
 	"item_name": "Sterak's Gage",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 249
 }, {
-	"id": "250",
 	"item_name": "Stinger",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 250
 }, {
-	"id": "251",
 	"item_name": "Sunfire Cape",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 251
 }, {
-	"id": "252",
 	"item_name": "Sweeping Lens",
-	"item_category": "Trinkets"
+	"item_category": "Trinkets",
+	"_id": 252
 }, {
-	"id": "253",
 	"item_name": "Swindler's Orb",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 253
 }, {
-	"id": "254",
 	"item_name": "Sword of the Divine",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 254
 }, {
-	"id": "255",
 	"item_name": "Sword of the Occult",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 255
 }, {
-	"id": "256",
 	"item_name": "Talisman of Ascension",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 256
 }, {
-	"id": "257",
 	"item_name": "Targon's Brace",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 257
 }, {
-	"id": "258",
 	"item_name": "Tear of the Goddess",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 258
 }, {
-	"id": "259",
 	"item_name": "Tear of the Goddess (Crystal Scar)",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 259
 }, {
-	"id": "260",
 	"item_name": "Teleport",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 260
 }, {
-	"id": "261",
 	"item_name": "The Black Cleaver",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 261
 }, {
-	"id": "262",
 	"item_name": "The Black Spear",
-	"item_category": "Exclusive Items"
+	"item_category": "Exclusive Items",
+	"_id": 262
 }, {
-	"id": "263",
 	"item_name": "The Bloodthirster",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 263
 }, {
-	"id": "264",
 	"item_name": "The Brutalizer",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 264
 }, {
-	"id": "265",
 	"item_name": "The Dark Seal",
-	"item_category": "Starting Items"
+	"item_category": "Starting Items",
+	"_id": 265
 }, {
-	"id": "266",
 	"item_name": "The Hex Core mk-1",
-	"item_category": "Exclusive Items"
+	"item_category": "Exclusive Items",
+	"_id": 266
 }, {
-	"id": "267",
 	"item_name": "The Hex Core mk-2",
-	"item_category": "Exclusive Items"
+	"item_category": "Exclusive Items",
+	"_id": 267
 }, {
-	"id": "268",
 	"item_name": "The Lightbringer",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 268
 }, {
-	"id": "269",
 	"item_name": "Thornmail",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 269
 }, {
-	"id": "270",
 	"item_name": "Tiamat",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 270
 }, {
-	"id": "271",
 	"item_name": "Titanic Hydra",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 271
 }, {
-	"id": "272",
 	"item_name": "Total Biscuit of Rejuvenation",
-	"item_category": "Consumables"
+	"item_category": "Consumables",
+	"_id": 272
 }, {
-	"id": "273",
 	"item_name": "Tracker's Knife",
-	"item_category": "Jungle Items and Enchantments"
+	"item_category": "Jungle Items and Enchantments",
+	"_id": 273
 }, {
-	"id": "274",
 	"item_name": "Trickster's Glass",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 274
 }, {
-	"id": "275",
 	"item_name": "Trinity Force",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 275
 }, {
-	"id": "276",
 	"item_name": "Twin Shadows",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 276
 }, {
-	"id": "277",
 	"item_name": "Typhoon Claws",
-	"item_category": "Featured Game Modes"
+	"item_category": "Featured Game Modes",
+	"_id": 277
 }, {
-	"id": "278",
 	"item_name": "Vampiric Scepter",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 278
 }, {
-	"id": "279",
 	"item_name": "Vision Ward",
-	"item_category": "Consumables"
+	"item_category": "Consumables",
+	"_id": 279
 }, {
-	"id": "280",
 	"item_name": "Void Staff",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 280
 }, {
-	"id": "281",
 	"item_name": "Warden's Mail",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 281
 }, {
-	"id": "282",
 	"item_name": "Warding Totem",
-	"item_category": "Trinkets"
+	"item_category": "Trinkets",
+	"_id": 282
 }, {
-	"id": "283",
 	"item_name": "Warmog's Armor",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 283
 }, {
-	"id": "284",
 	"item_name": "Warrior",
-	"item_category": "Jungle Items and Enchantments"
+	"item_category": "Jungle Items and Enchantments",
+	"_id": 284
 }, {
-	"id": "285",
 	"item_name": "Wicked Hatchet",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 285
 }, {
-	"id": "286",
 	"item_name": "Will of the Ancients",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 286
 }, {
-	"id": "287",
 	"item_name": "Wit's End",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 287
 }, {
-	"id": "288",
 	"item_name": "Wooglet's Witchcap",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 288
 }, {
-	"id": "289",
 	"item_name": "Wriggle's Lantern",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 289
 }, {
-	"id": "290",
 	"item_name": "Youmuu's Ghostblade",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 290
 }, {
-	"id": "291",
 	"item_name": "Zeal",
-	"item_category": "Advanced Items"
+	"item_category": "Advanced Items",
+	"_id": 291
 }, {
-	"id": "292",
 	"item_name": "Zeke's Harbinger",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 292
 }, {
-	"id": "293",
 	"item_name": "Zeke's Herald",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 293
 }, {
-	"id": "294",
 	"item_name": "Zephyr",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 294
 }, {
-	"id": "295",
 	"item_name": "Zhonya's Hourglass",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 295
 }, {
-	"id": "296",
 	"item_name": "Zhonya's Ring",
-	"item_category": "Removed Items"
+	"item_category": "Removed Items",
+	"_id": 296
 }, {
-	"id": "297",
 	"item_name": "Zz'Rot Portal",
-	"item_category": "Finished Items"
+	"item_category": "Finished Items",
+	"_id": 297
 }]

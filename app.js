@@ -1,6 +1,6 @@
 var fs = require('fs');
 
-var fileName = 'league_items_category.json';
+var fileName = 'league_items_mobafire.json';
 
 var json = JSON.parse(fs.readFileSync(fileName, 'utf8'));
 
@@ -12,7 +12,8 @@ json.sort(function(a, b) {
 });
 
 for (var i = 0; i < json.length; i++) {
-	json[i].id = i.toString();
+	json[i].item_link_href = json[i]['item_image-src'];
+	delete json[i]['item_link-href'];
 }
 
 console.log(json);
